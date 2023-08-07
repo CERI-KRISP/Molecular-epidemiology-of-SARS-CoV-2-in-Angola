@@ -1,0 +1,1560 @@
+EventTime,Origin,Destination,replicate,Continent_origin,Continent_dest,date,month,Region_origin,Region_dest,biweek
+2020.49071,Angola,Namibia,1,Africa,Africa,2020-06-28T14:23:47.904001Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.58308,Angola,Namibia,1,Africa,Africa,2020-08-01T09:46:28.991996Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.68036,Angola,United Kingdom,1,Africa,Europe,2020-09-06T00:16:56.064002Z,2020-09-01,Southern Africa,Western Europe,2020-09-06
+2020.69127,Angola,Mozambique,1,Africa,Africa,2020-09-10T00:06:56.448001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.69129,Angola,Serbia,1,Africa,Europe,2020-09-10T00:17:28.895999Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2020.69417,Angola,South Africa,1,Africa,Africa,2020-09-11T01:35:21.408Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.71586,Angola,South Africa,1,Africa,Africa,2020-09-19T00:06:51.264001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.74872,Angola,Belgium,1,Africa,Europe,2020-10-01T00:45:23.328001Z,2020-10-01,Southern Africa,Western Europe,2020-09-20
+2020.75475,Angola,Republic of the Congo,1,Africa,,2020-10-03T05:43:26.400002Z,2020-10-01,Southern Africa,,2020-09-20
+2020.7596,Angola,Japan,1,Africa,Asia,2020-10-05T00:19:35.040003Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.76333,Angola,France,1,Africa,Europe,2020-10-06T09:05:26.592Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77054,Angola,Canada,1,Africa,North America,2020-10-09T00:25:24.095999Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2020.77831,Angola,Switzerland,1,Africa,Europe,2020-10-11T20:40:30.143997Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.7822,Angola,Portugal,1,Africa,Europe,2020-10-13T06:50:41.279996Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.78966,Angola,France,1,Africa,Europe,2020-10-16T00:22:24.383997Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.80332,Angola,United Kingdom,1,Africa,Europe,2020-10-21T00:21:46.368Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2020.82242,Angola,South Africa,1,Africa,Africa,2020-10-28T00:08:14.207999Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.84327,Angola,Portugal,1,Africa,Europe,2020-11-04T15:17:01.248002Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.84975,Angola,South Africa,1,Africa,Africa,2020-11-07T00:12:14.400003Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.84977,Angola,Jordan,1,Africa,Asia,2020-11-07T00:22:46.848001Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.85247,Angola,South Africa,1,Africa,Africa,2020-11-08T00:05:47.328001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.85317,Angola,Canada,1,Africa,North America,2020-11-08T06:14:43.008003Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.90165,Angola,South Africa,1,Africa,Africa,2020-11-26T00:05:36.960001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.90617,Angola,Benin,1,Africa,Africa,2020-11-27T15:47:50.207999Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2020.92958,Angola,Portugal,1,Africa,Europe,2020-12-06T05:25:50.592Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.9381,Angola,Portugal,1,Africa,Europe,2020-12-09T08:16:13.440002Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.94064,Angola,Portugal,1,Africa,Europe,2020-12-10T06:34:54.336001Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.95107,Angola,Portugal,1,Africa,Europe,2020-12-14T02:11:55.968002Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.95546,Angola,USA,1,Africa,,2020-12-15T16:45:38.303997Z,2020-12-01,Southern Africa,,2020-12-13
+2020.9563,Angola,Namibia,1,Africa,Africa,2020-12-16T00:08:21.120002Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.95746,Angola,Portugal,1,Africa,Europe,2020-12-16T10:19:43.104003Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.95906,Angola,Republic of the Congo,1,Africa,,2020-12-17T00:22:58.943997Z,2020-12-01,Southern Africa,,2020-12-13
+2020.96178,Angola,South Africa,1,Africa,Africa,2020-12-18T00:16:31.872003Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.9662,Angola,Portugal,1,Africa,Europe,2020-12-19T15:06:02.880002Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.96955,Angola,Namibia,1,Africa,Africa,2020-12-20T20:31:37.920001Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.00442,Angola,Nigeria,1,Africa,Africa,2021-01-02T14:43:09.119999Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.00682,Angola,Antigua and Barbuda,1,Africa,,2021-01-03T11:44:35.520002Z,2021-01-01,Southern Africa,,2020-12-27
+2021.01647,Angola,Zambia,1,Africa,Africa,2021-01-07T00:16:37.920001Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.01918,Angola,Zimbabwe,1,Africa,Africa,2021-01-08T00:01:00.480Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.03043,Angola,Namibia,1,Africa,Africa,2021-01-12T02:34:00.480001Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.04114,Angola,Namibia,1,Africa,Africa,2021-01-16T00:23:11.040001Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.05381,Angola,Kenya,1,Africa,Africa,2021-01-20T15:22:32.159996Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2021.06149,Angola,Democratic Republic of the Congo,1,Africa,,2021-01-23T10:39:08.640002Z,2021-01-01,Southern Africa,,2021-01-10
+2021.06305,Angola,United Kingdom,1,Africa,Europe,2021-01-24T00:19:04.799999Z,2021-01-01,Southern Africa,Western Europe,2021-01-24
+2021.06851,Angola,Togo,1,Africa,Africa,2021-01-26T00:08:51.360002Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.08496,Angola,Benin,1,Africa,Africa,2021-02-01T00:14:58.559997Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.09387,Angola,Mali,1,Africa,Africa,2021-02-04T06:18:04.319998Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.09568,Angola,Nigeria,1,Africa,Africa,2021-02-04T22:09:24.479997Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.09589,Angola,Benin,1,Africa,Africa,2021-02-04T23:59:47.040002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.09592,Angola,Niger,1,Africa,Africa,2021-02-05T00:15:33.119999Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.12059,Angola,Gabon,1,Africa,Africa,2021-02-14T00:22:06.240Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.12601,Angola,Denmark,1,Africa,Europe,2021-02-15T23:50:51.359998Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.12605,Angola,Namibia,1,Africa,Africa,2021-02-16T00:11:52.800002Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.12638,Angola,Portugal,1,Africa,Europe,2021-02-16T03:05:19.679998Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.13225,Angola,USA,1,Africa,,2021-02-18T06:30:35.999996Z,2021-02-01,Southern Africa,,2021-02-07
+2021.13426,Angola,Portugal,1,Africa,Europe,2021-02-19T00:07:03.360001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.13429,Angola,France,1,Africa,Europe,2021-02-19T00:22:49.439999Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14246,Angola,Bulgaria,1,Africa,Europe,2021-02-21T23:56:58.560001Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.14249,Angola,South Africa,1,Africa,Africa,2021-02-22T00:12:44.639998Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15034,Angola,Guinea,1,Africa,Africa,2021-02-24T20:58:42.239997Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.15071,Angola,Zimbabwe,1,Africa,Africa,2021-02-25T00:13:10.559997Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.16163,Angola,Greece,1,Africa,Europe,2021-02-28T23:52:43.680002Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.16165,Angola,Somalia,1,Africa,Africa,2021-03-01T00:03:14.400Z,2021-03-01,Southern Africa,Eastern Africa,2021-02-21
+2021.16439,Angola,South Africa,1,Africa,Africa,2021-03-02T00:03:23.039997Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.1644,Angola,South Africa,1,Africa,Africa,2021-03-02T00:08:38.399997Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.17264,Angola,South Africa,1,Africa,Africa,2021-03-05T00:19:35.040Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.18356,Angola,South Africa,1,Africa,Africa,2021-03-08T23:59:08.159998Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.18357,Angola,Senegal,1,Africa,Africa,2021-03-09T00:04:23.519997Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.1839,Angola,Mauritius,1,Africa,Africa,2021-03-09T02:57:50.400Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.18907,Angola,France,1,Africa,Europe,2021-03-11T00:15:11.519997Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.19182,Angola,South Africa,1,Africa,Africa,2021-03-12T00:20:35.520Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.20003,Angola,Portugal,1,Africa,Europe,2021-03-15T00:15:46.079999Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.20552,Angola,Tunisia,1,Africa,Africa,2021-03-17T00:21:18.719999Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.20663,Angola,Portugal,1,Africa,Europe,2021-03-17T10:04:43.679997Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.2247,Angola,South Africa,1,Africa,Africa,2021-03-24T00:22:19.200Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.22742,Angola,South Africa,1,Africa,Africa,2021-03-25T00:11:57.119998Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.23561,Angola,Ireland,1,Africa,Europe,2021-03-27T23:56:36.959998Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.24111,Angola,South Africa,1,Africa,Africa,2021-03-30T00:07:24.959998Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.2466,Angola,Mali,1,Africa,Africa,2021-04-01T00:12:57.599998Z,2021-04-01,Southern Africa,Western Africa,2021-03-21
+2021.25753,Angola,New Zealand,1,Africa,Australia,2021-04-04T23:57:46.080003Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.25905,Angola,Sao Tome and Principe,1,Africa,Africa,2021-04-05T13:16:40.799996Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26301,Angola,Portugal,1,Africa,Europe,2021-04-06T23:58:03.359997Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.26303,Angola,Portugal,1,Africa,Europe,2021-04-07T00:08:34.080002Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.26305,Angola,South Africa,1,Africa,Africa,2021-04-07T00:19:04.800001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.26854,Angola,Australia,1,Africa,Australia,2021-04-09T00:24:37.440001Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.27122,Angola,Portugal,1,Africa,Europe,2021-04-09T23:53:13.920003Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.27125,Angola,Philippines,1,Africa,Asia,2021-04-10T00:09:00Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.27398,Angola,South Africa,1,Africa,Africa,2021-04-11T00:03:53.279998Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.27643,Angola,Portugal,1,Africa,Europe,2021-04-11T21:31:36.479997Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.2822,Angola,Oman,1,Africa,Asia,2021-04-14T00:04:19.199996Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.29097,Angola,Zimbabwe,1,Africa,Africa,2021-04-17T04:53:49.920001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.29863,Angola,Bulgaria,1,Africa,Europe,2021-04-19T23:59:55.680Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.3014,Angola,South Africa,1,Africa,Africa,2021-04-21T00:15:50.400002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.30413,Angola,Canada,1,Africa,North America,2021-04-22T00:10:43.680Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.31508,Angola,South Africa,1,Africa,Africa,2021-04-26T00:06:02.880002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.32328,Angola,Poland,1,Africa,Europe,2021-04-28T23:55:58.080002Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.32756,Angola,Namibia,1,Africa,Africa,2021-04-30T13:25:32.159998Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.32879,Angola,India,1,Africa,Asia,2021-05-01T00:12:01.440001Z,2021-05-01,Southern Africa,India+,2021-04-18
+2021.33974,Angola,Barbados,1,Africa,South America,2021-05-05T00:07:20.639997Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.34247,Angola,Portugal,1,Africa,Europe,2021-05-06T00:02:13.920002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.34248,Angola,Bangladesh,1,Africa,Asia,2021-05-06T00:07:29.280001Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.34519,Angola,Portugal,1,Africa,Europe,2021-05-06T23:51:51.840Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.35068,Angola,Portugal,1,Africa,Europe,2021-05-08T23:57:24.480Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.36167,Angola,Democratic Republic of the Congo,1,Africa,,2021-05-13T00:13:45.120Z,2021-05-01,Southern Africa,,2021-05-02
+2021.36318,Angola,Burundi,1,Africa,Africa,2021-05-13T13:27:24.480002Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.36944,Angola,Namibia,1,Africa,Africa,2021-05-15T20:17:39.839998Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.37535,Angola,Liberia,1,Africa,Africa,2021-05-18T00:03:57.600001Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.3781,Angola,Botswana,1,Africa,Africa,2021-05-19T00:09:21.599997Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.37811,Angola,Israel,1,Africa,Europe,2021-05-19T00:14:36.959996Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.38216,Angola,Myanmar,1,Africa,Asia,2021-05-20T11:43:17.759996Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.38357,Angola,Benin,1,Africa,Africa,2021-05-21T00:04:23.519999Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38359,Angola,Djibouti,1,Africa,Africa,2021-05-21T00:14:54.239997Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.38632,Angola,South Sudan,1,Africa,,2021-05-22T00:09:47.520002Z,2021-05-01,Southern Africa,,2021-05-16
+2021.39179,Angola,Gambia,1,Africa,Africa,2021-05-24T00:04:49.439997Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.40003,Angola,South Sudan,1,Africa,,2021-05-27T00:15:46.080Z,2021-05-01,Southern Africa,,2021-05-16
+2021.40549,Angola,South Africa,1,Africa,Africa,2021-05-29T00:05:32.639996Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.40826,Angola,Democratic Republic of the Congo,1,Africa,,2021-05-30T00:21:27.359998Z,2021-05-01,Southern Africa,,2021-05-30
+2021.41519,Angola,Guinea,1,Africa,Africa,2021-06-01T13:03:51.839998Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.41647,Angola,Senegal,1,Africa,Africa,2021-06-02T00:16:37.919997Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.43287,Angola,Namibia,1,Africa,Africa,2021-06-07T23:56:28.320003Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43561,Angola,Namibia,1,Africa,Africa,2021-06-08T23:56:36.960Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43562,Angola,Namibia,1,Africa,Africa,2021-06-09T00:01:52.319999Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43563,Angola,Gabon,1,Africa,Africa,2021-06-09T00:07:07.679998Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.47399,Angola,Finland,1,Africa,Europe,2021-06-23T00:09:08.639999Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.47504,Angola,Namibia,1,Africa,Africa,2021-06-23T09:21:01.440001Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.47945,Angola,Portugal,1,Africa,Europe,2021-06-24T23:58:55.200001Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.50413,Angola,Barbados,1,Africa,South America,2021-07-04T00:10:43.680001Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.50686,Angola,Zambia,1,Africa,Africa,2021-07-05T00:05:36.959999Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.50961,Angola,Zambia,1,Africa,Africa,2021-07-06T00:11:00.960002Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.51234,Angola,Rwanda,1,Africa,Africa,2021-07-07T00:05:54.240Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.52689,Angola,South Africa,1,Africa,Africa,2021-07-12T07:33:23.040003Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.52877,Angola,Namibia,1,Africa,Africa,2021-07-13T00:01:30.719997Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.53426,Angola,Sao Tome and Principe,1,Africa,Africa,2021-07-15T00:07:03.359997Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.53684,Angola,USA,1,Africa,,2021-07-15T22:43:06.240Z,2021-07-01,Southern Africa,,2021-07-11
+2021.53699,Angola,Namibia,1,Africa,Africa,2021-07-16T00:01:56.640002Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.55502,Angola,Namibia,1,Africa,Africa,2021-07-22T13:58:30.720001Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.56122,Angola,Myanmar,1,Africa,Asia,2021-07-24T20:17:13.920002Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.6,Angola,Panama,1,Africa,South America,2021-08-07T23:59:59.999997Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.60822,Angola,South Africa,1,Africa,Africa,2021-08-11T00:00:25.920002Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.62192,Angola,Namibia,1,Africa,Africa,2021-08-16T00:01:09.120001Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.6419,Angola,Portugal,1,Africa,Europe,2021-08-23T07:02:38.400002Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2021.64932,Angola,South Africa,1,Africa,Africa,2021-08-26T00:02:35.520Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.67124,Angola,South Africa,1,Africa,Africa,2021-09-03T00:03:44.639997Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.68219,Angola,Portugal,1,Africa,Europe,2021-09-06T23:59:03.840Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.68767,Angola,South Africa,1,Africa,Africa,2021-09-08T23:59:21.120001Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.69315,Angola,Japan,1,Africa,Asia,2021-09-10T23:59:38.400002Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.69864,Angola,South Africa,1,Africa,Africa,2021-09-13T00:05:11.040002Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.70137,Angola,Portugal,1,Africa,Europe,2021-09-14T00:00:04.320Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.75344,Angola,South Africa,1,Africa,Africa,2021-10-03T00:08:03.839998Z,2021-10-01,Southern Africa,Southern Africa,2021-10-03
+2021.8,Angola,Portugal,1,Africa,Europe,2021-10-19T23:59:59.999999Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.85479,Angola,Democratic Republic of the Congo,1,Africa,,2021-11-08T23:57:37.440003Z,2021-11-01,Southern Africa,,2021-10-31
+2021.85481,Angola,Democratic Republic of the Congo,1,Africa,,2021-11-09T00:08:08.160001Z,2021-11-01,Southern Africa,,2021-10-31
+2021.86029,Angola,Morocco,1,Africa,Africa,2021-11-11T00:08:25.440002Z,2021-11-01,Southern Africa,Northern Africa,2021-10-31
+2021.9781,Angola,Indonesia,1,Africa,Asia,2021-12-24T00:09:21.600001Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.18351,Angola,Senegal,2,Africa,Africa,2021-03-08T23:32:51.360002Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18351,Angola,South Africa,2,Africa,Africa,2021-03-08T23:32:51.360002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26296,Angola,Portugal,2,Africa,Europe,2021-04-06T23:31:46.560001Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09583,Angola,Benin,2,Africa,Africa,2021-02-04T23:28:14.879999Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05548,Angola,Kenya,2,Africa,Africa,2021-01-21T06:00:17.280Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95878,Angola,USA,2,Africa,,2020-12-16T21:55:24.671998Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00315,Angola,Nigeria,2,Africa,Africa,2021-01-02T03:35:38.400Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25953,Angola,Sao Tome and Principe,2,Africa,Africa,2021-04-05T17:28:58.080001Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26296,Angola,Portugal,2,Africa,Europe,2021-04-06T23:31:46.560001Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35063,Angola,Portugal,2,Africa,Europe,2021-05-08T23:31:07.679997Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.59995,Angola,Panama,2,Africa,South America,2021-08-07T23:33:43.200001Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.32324,Angola,Poland,2,Africa,Europe,2021-04-28T23:34:56.639998Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29858,Angola,Bulgaria,2,Africa,Europe,2021-04-19T23:33:38.879997Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23557,Angola,Ireland,2,Africa,Europe,2021-03-27T23:35:35.520002Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16159,Angola,Greece,2,Africa,Europe,2021-02-28T23:31:42.239998Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.13299,Angola,USA,2,Africa,,2021-02-18T12:59:32.640002Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12598,Angola,Denmark,2,Africa,Europe,2021-02-15T23:35:05.280001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14242,Angola,Bulgaria,2,Africa,Europe,2021-02-21T23:35:57.119997Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27117,Angola,Portugal,2,Africa,Europe,2021-04-09T23:26:57.119999Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20749,Angola,Portugal,2,Africa,Europe,2021-03-17T17:36:44.640Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34516,Angola,Portugal,2,Africa,Europe,2021-05-06T23:36:05.759995Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.18453,Angola,Mauritius,2,Africa,Africa,2021-03-09T08:28:58.080Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.3753,Angola,Liberia,2,Africa,Africa,2021-05-17T23:37:40.799998Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.00769,Angola,Antigua and Barbuda,2,Africa,,2021-01-03T19:21:51.839997Z,2021-01-01,Southern Africa,,2020-12-27
+2021.15063,Angola,Guinea,2,Africa,Africa,2021-02-24T23:31:07.679996Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39173,Angola,Gambia,2,Africa,Africa,2021-05-23T23:33:17.280002Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38351,Angola,Benin,2,Africa,Africa,2021-05-20T23:32:51.359997Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34241,Angola,Bangladesh,2,Africa,Asia,2021-05-05T23:30:41.759999Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06844,Angola,Togo,2,Africa,Africa,2021-01-25T23:32:03.840Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43556,Angola,Gabon,2,Africa,Africa,2021-06-08T23:30:20.159997Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53419,Angola,Sao Tome and Principe,2,Africa,Africa,2021-07-14T23:30:15.839995Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.1342,Angola,Portugal,2,Africa,Europe,2021-02-18T23:35:31.199999Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.10122,Angola,Nigeria,2,Africa,Africa,2021-02-06T22:41:13.920Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27118,Angola,Philippines,2,Africa,Asia,2021-04-09T23:32:12.479999Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.44104,Angola,South Africa,2,Africa,Africa,2021-06-10T23:30:37.439998Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.19996,Angola,Portugal,2,Africa,Europe,2021-03-14T23:38:58.559998Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09585,Angola,Niger,2,Africa,Africa,2021-02-04T23:38:45.599998Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08489,Angola,Benin,2,Africa,Africa,2021-01-31T23:38:11.039996Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36161,Angola,Democratic Republic of the Congo,2,Africa,,2021-05-12T23:42:12.959998Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38353,Angola,Djibouti,2,Africa,Africa,2021-05-20T23:43:22.080002Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37804,Angola,Israel,2,Africa,Europe,2021-05-18T23:37:49.440002Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.39996,Angola,South Sudan,2,Africa,,2021-05-26T23:38:58.559999Z,2021-05-01,Southern Africa,,2021-05-16
+2021.4164,Angola,Senegal,2,Africa,Africa,2021-06-01T23:39:50.400002Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24654,Angola,Mali,2,Africa,Africa,2021-03-31T23:41:25.439996Z,2021-03-01,Southern Africa,Western Africa,2021-03-21
+2021.41539,Angola,Guinea,2,Africa,Africa,2021-06-01T14:48:59.039996Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09533,Angola,Mali,2,Africa,Africa,2021-02-04T19:05:26.879996Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.91018,Angola,Benin,2,Africa,Africa,2020-11-29T03:01:16.031995Z,2020-11-01,Southern Africa,Western Africa,2020-11-29
+2021.26847,Angola,Australia,2,Africa,Australia,2021-04-08T23:47:49.919999Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.06035,Angola,Democratic Republic of the Congo,2,Africa,,2021-01-23T00:39:57.599999Z,2021-01-01,Southern Africa,,2021-01-10
+2020.75626,Angola,Republic of the Congo,2,Africa,,2020-10-03T18:59:16.223996Z,2020-10-01,Southern Africa,,2020-09-20
+2021.12052,Angola,Gabon,2,Africa,Africa,2021-02-13T23:45:18.719998Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20546,Angola,Tunisia,2,Africa,Africa,2021-03-16T23:49:46.559997Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.22736,Angola,South Africa,2,Africa,Africa,2021-03-24T23:40:24.959996Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95941,Angola,Portugal,2,Africa,Europe,2020-12-17T03:27:26.783998Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93913,Angola,Portugal,2,Africa,Europe,2020-12-09T17:19:04.511999Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18903,Angola,France,2,Africa,Europe,2021-03-10T23:54:10.080Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.0164,Angola,Zambia,2,Africa,Africa,2021-01-06T23:39:50.399999Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68031,Angola,United Kingdom,2,Africa,Europe,2020-09-05T23:50:34.943999Z,2020-09-01,Southern Africa,Western Europe,2020-08-23
+2020.58352,Angola,Namibia,2,Africa,Africa,2020-08-01T13:38:22.847997Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.49371,Angola,Namibia,2,Africa,Africa,2020-06-29T16:44:55.103999Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75954,Angola,Japan,2,Africa,Asia,2020-10-04T23:47:57.696001Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94105,Angola,Portugal,2,Africa,Europe,2020-12-10T10:10:59.519997Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.78087,Angola,Switzerland,2,Africa,Europe,2020-10-12T19:09:43.488002Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.93028,Angola,Portugal,2,Africa,Europe,2020-12-06T11:34:46.272001Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84391,Angola,Portugal,2,Africa,Europe,2020-11-04T20:54:19.584002Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74938,Angola,Belgium,2,Africa,Europe,2020-10-01T06:33:14.111999Z,2020-10-01,Southern Africa,Western Europe,2020-09-20
+2020.95195,Angola,Portugal,2,Africa,Europe,2020-12-14T09:55:43.679997Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76351,Angola,France,2,Africa,Europe,2020-10-06T10:40:18.624Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06298,Angola,United Kingdom,2,Africa,Europe,2021-01-23T23:42:17.279998Z,2021-01-01,Southern Africa,Western Europe,2021-01-10
+2020.78959,Angola,France,2,Africa,Europe,2020-10-15T23:45:30.815996Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77047,Angola,Canada,2,Africa,North America,2020-10-08T23:48:30.527998Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13422,Angola,France,2,Africa,Europe,2021-02-18T23:46:01.919997Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80325,Angola,United Kingdom,2,Africa,Europe,2020-10-20T23:44:52.799998Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40819,Angola,Democratic Republic of the Congo,2,Africa,,2021-05-29T23:44:39.839996Z,2021-05-01,Southern Africa,,2021-05-16
+2021.04106,Angola,Namibia,2,Africa,Africa,2021-01-15T23:41:08.160001Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.97111,Angola,Namibia,2,Africa,Africa,2020-12-21T10:13:48.863998Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.8497,Angola,Jordan,2,Africa,Asia,2020-11-06T23:45:53.279999Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95898,Angola,Republic of the Congo,2,Africa,,2020-12-16T23:40:49.151996Z,2020-12-01,Southern Africa,,2020-12-13
+2020.8554,Angola,Canada,2,Africa,North America,2020-11-09T01:50:00.959997Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78652,Angola,Portugal,2,Africa,Europe,2020-10-14T20:47:30.047996Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.69319,Angola,Serbia,2,Africa,Europe,2020-09-10T16:58:51.455999Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.30134,Angola,South Africa,2,Africa,Africa,2021-04-20T23:44:18.240Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31503,Angola,South Africa,2,Africa,Africa,2021-04-25T23:39:46.079999Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24106,Angola,South Africa,2,Africa,Africa,2021-03-29T23:41:08.160002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26298,Angola,South Africa,2,Africa,Africa,2021-04-06T23:42:17.279999Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43558,Angola,Namibia,2,Africa,Africa,2021-06-08T23:40:50.880002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69122,Angola,Mozambique,2,Africa,Africa,2020-09-09T23:40:35.327998Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27394,Angola,South Africa,2,Africa,Africa,2021-04-10T23:42:51.840001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16435,Angola,South Africa,2,Africa,Africa,2021-03-01T23:42:21.600Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71581,Angola,South Africa,2,Africa,Africa,2020-09-18T23:40:30.143997Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82237,Angola,South Africa,2,Africa,Africa,2020-10-27T23:41:53.087996Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85242,Angola,South Africa,2,Africa,Africa,2020-11-07T23:39:26.207998Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90161,Angola,South Africa,2,Africa,Africa,2020-11-25T23:44:32.063997Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.8497,Angola,South Africa,2,Africa,Africa,2020-11-06T23:45:53.279999Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96173,Angola,South Africa,2,Africa,Africa,2020-12-17T23:50:10.752Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14244,Angola,South Africa,2,Africa,Africa,2021-02-21T23:46:27.839995Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15066,Angola,Zimbabwe,2,Africa,Africa,2021-02-24T23:46:53.760Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69415,Angola,South Africa,2,Africa,Africa,2020-09-11T01:24:48.960001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19178,Angola,South Africa,2,Africa,Africa,2021-03-11T23:59:34.079996Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22467,Angola,South Africa,2,Africa,Africa,2021-03-24T00:06:33.120002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.126,Angola,Namibia,2,Africa,Africa,2021-02-15T23:45:35.999999Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30409,Angola,Canada,2,Africa,North America,2021-04-21T23:49:42.239995Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17256,Angola,South Africa,2,Africa,Africa,2021-03-04T23:37:32.159999Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95626,Angola,Namibia,2,Africa,Africa,2020-12-15T23:47:16.223998Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43559,Angola,Namibia,2,Africa,Africa,2021-06-08T23:46:06.240001Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43285,Angola,Namibia,2,Africa,Africa,2021-06-07T23:45:57.599997Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47943,Angola,Portugal,2,Africa,Europe,2021-06-24T23:48:24.479996Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34246,Angola,Portugal,2,Africa,Europe,2021-05-05T23:56:58.560002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16437,Angola,South Africa,2,Africa,Africa,2021-03-01T23:52:52.319999Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36353,Angola,Burundi,2,Africa,Africa,2021-05-13T16:31:22.079995Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16162,Angola,Somalia,2,Africa,Africa,2021-02-28T23:47:28.319995Z,2021-02-01,Southern Africa,Eastern Africa,2021-02-21
+2021.03158,Angola,Namibia,2,Africa,Africa,2021-01-12T12:38:26.880002Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01916,Angola,Zimbabwe,2,Africa,Africa,2021-01-07T23:50:29.760002Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40545,Angola,South Africa,2,Africa,Africa,2021-05-28T23:44:31.199999Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.5123,Angola,Rwanda,2,Africa,Africa,2021-07-06T23:44:52.799996Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.28216,Angola,Oman,2,Africa,Asia,2021-04-13T23:43:17.759999Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.37809,Angola,Botswana,2,Africa,Africa,2021-05-19T00:04:06.239998Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.38258,Angola,Myanmar,2,Africa,Asia,2021-05-20T15:24:02.879999Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.2575,Angola,New Zealand,2,Africa,Australia,2021-04-04T23:41:59.999998Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38627,Angola,South Sudan,2,Africa,,2021-05-21T23:43:30.719999Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85476,Angola,Democratic Republic of the Congo,2,Africa,,2021-11-08T23:41:51.359998Z,2021-11-01,Southern Africa,,2021-10-31
+2021.33969,Angola,Barbados,2,Africa,South America,2021-05-04T23:41:03.840001Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.24686,Angola,Portugal,2,Africa,Europe,2021-04-01T02:29:36.959999Z,2021-04-01,Southern Africa,Western Europe,2021-03-21
+2021.32874,Angola,India,2,Africa,Asia,2021-04-30T23:45:44.639998Z,2021-04-01,Southern Africa,India+,2021-04-18
+2021.97805,Angola,Indonesia,2,Africa,Asia,2021-12-23T23:43:04.799998Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.27802,Angola,Portugal,2,Africa,Europe,2021-04-12T11:27:18.719999Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50407,Angola,Barbados,2,Africa,South America,2021-07-03T23:39:11.519999Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.29356,Angola,Zimbabwe,2,Africa,Africa,2021-04-18T03:35:08.160002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.53731,Angola,USA,2,Africa,,2021-07-16T02:50:08.159998Z,2021-07-01,Southern Africa,,2021-07-11
+2021.5626,Angola,Myanmar,2,Africa,Asia,2021-07-25T08:22:33.599999Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-25
+2021.50956,Angola,Zambia,2,Africa,Africa,2021-07-05T23:44:44.159999Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70134,Angola,Portugal,2,Africa,Europe,2021-09-13T23:44:18.240002Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69312,Angola,Japan,2,Africa,Asia,2021-09-10T23:43:52.319997Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68218,Angola,Portugal,2,Africa,Europe,2021-09-06T23:53:48.480Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32891,Angola,Namibia,2,Africa,Africa,2021-05-01T01:15:05.759999Z,2021-05-01,Southern Africa,Southern Africa,2021-04-18
+2021.67122,Angola,South Africa,2,Africa,Africa,2021-09-02T23:53:13.919998Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.6219,Angola,Namibia,2,Africa,Africa,2021-08-15T23:50:38.399996Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50684,Angola,Zambia,2,Africa,Africa,2021-07-04T23:55:06.240Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.64931,Angola,South Africa,2,Africa,Africa,2021-08-25T23:57:20.160Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47652,Angola,Namibia,2,Africa,Africa,2021-06-23T22:18:54.719998Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53698,Angola,Namibia,2,Africa,Africa,2021-07-15T23:56:41.279995Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.8,Angola,Portugal,2,Africa,Europe,2021-10-19T23:59:59.999999Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52757,Angola,South Africa,2,Africa,Africa,2021-07-12T13:30:47.519999Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.6082,Angola,South Africa,2,Africa,Africa,2021-08-10T23:49:55.199997Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.69861,Angola,South Africa,2,Africa,Africa,2021-09-12T23:49:24.959997Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55603,Angola,Namibia,2,Africa,Africa,2021-07-22T22:49:22.079999Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68766,Angola,South Africa,2,Africa,Africa,2021-09-08T23:54:05.760002Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.75342,Angola,South Africa,2,Africa,Africa,2021-10-02T23:57:33.120Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52875,Angola,Namibia,2,Africa,Africa,2021-07-12T23:50:59.999998Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.3706,Angola,Namibia,2,Africa,Africa,2021-05-16T06:27:21.599999Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.85479,Angola,Democratic Republic of the Congo,2,Africa,,2021-11-08T23:57:37.439996Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64214,Angola,Portugal,2,Africa,Europe,2021-08-23T09:08:47.039998Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2020.96617,Angola,Portugal,3,Africa,Europe,2020-12-19T14:50:14.208005Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2021.18352,Angola,Senegal,3,Africa,Africa,2021-03-08T23:38:06.720001Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18352,Angola,South Africa,3,Africa,Africa,2021-03-08T23:38:06.720001Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26298,Angola,Portugal,3,Africa,Europe,2021-04-06T23:42:17.279999Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09586,Angola,Benin,3,Africa,Africa,2021-02-04T23:44:00.960004Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05383,Angola,Kenya,3,Africa,Africa,2021-01-20T15:33:02.880002Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.9555,Angola,USA,3,Africa,,2020-12-15T17:06:43.200001Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00439,Angola,Nigeria,3,Africa,Africa,2021-01-02T14:27:23.040002Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25903,Angola,Sao Tome and Principe,3,Africa,Africa,2021-04-05T13:06:10.080005Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26298,Angola,Portugal,3,Africa,Europe,2021-04-06T23:42:17.279999Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35065,Angola,Portugal,3,Africa,Europe,2021-05-08T23:41:38.400003Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.59996,Angola,Panama,3,Africa,South America,2021-08-07T23:38:58.560Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.32325,Angola,Poland,3,Africa,Europe,2021-04-28T23:40:12.000005Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.2986,Angola,Bulgaria,3,Africa,Europe,2021-04-19T23:44:09.600003Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23558,Angola,Ireland,3,Africa,Europe,2021-03-27T23:40:50.880001Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16161,Angola,Greece,3,Africa,Europe,2021-02-28T23:42:12.960003Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.13229,Angola,USA,3,Africa,,2021-02-18T06:51:37.440Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12599,Angola,Denmark,3,Africa,Europe,2021-02-15T23:40:20.640Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14243,Angola,Bulgaria,3,Africa,Europe,2021-02-21T23:41:12.480003Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27122,Angola,Portugal,3,Africa,Europe,2021-04-09T23:53:13.920003Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20663,Angola,Portugal,3,Africa,Europe,2021-03-17T10:04:43.680004Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34518,Angola,Portugal,3,Africa,Europe,2021-05-06T23:46:36.480001Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12634,Angola,Portugal,3,Africa,Europe,2021-02-16T02:44:18.240001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18393,Angola,Mauritius,3,Africa,Africa,2021-03-09T03:13:36.480005Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37536,Angola,Liberia,3,Africa,Africa,2021-05-18T00:09:12.960Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.01022,Angola,Antigua and Barbuda,3,Africa,,2021-01-04T17:31:37.920004Z,2021-01-01,Southern Africa,,2020-12-27
+2021.15107,Angola,Guinea,3,Africa,Africa,2021-02-25T03:22:23.520004Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.3918,Angola,Gambia,3,Africa,Africa,2021-05-24T00:10:04.800003Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38358,Angola,Benin,3,Africa,Africa,2021-05-21T00:09:38.880005Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34248,Angola,Bangladesh,3,Africa,Asia,2021-05-06T00:07:29.280001Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06851,Angola,Togo,3,Africa,Africa,2021-01-26T00:08:51.360002Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43564,Angola,Gabon,3,Africa,Africa,2021-06-09T00:12:23.040005Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53427,Angola,Sao Tome and Principe,3,Africa,Africa,2021-07-15T00:12:18.720003Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13427,Angola,Portugal,3,Africa,Europe,2021-02-19T00:12:18.720001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09573,Angola,Nigeria,3,Africa,Africa,2021-02-04T22:35:41.280Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27126,Angola,Philippines,3,Africa,Asia,2021-04-10T00:14:15.359999Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.19998,Angola,Portugal,3,Africa,Europe,2021-03-14T23:49:29.280003Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09587,Angola,Niger,3,Africa,Africa,2021-02-04T23:49:16.320003Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08491,Angola,Benin,3,Africa,Africa,2021-01-31T23:48:41.760001Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36163,Angola,Democratic Republic of the Congo,3,Africa,,2021-05-12T23:52:43.680003Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38354,Angola,Djibouti,3,Africa,Africa,2021-05-20T23:48:37.440001Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37807,Angola,Israel,3,Africa,Europe,2021-05-18T23:53:35.519999Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.39998,Angola,South Sudan,3,Africa,,2021-05-26T23:49:29.280005Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41642,Angola,Senegal,3,Africa,Africa,2021-06-01T23:50:21.120001Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24655,Angola,Mali,3,Africa,Africa,2021-03-31T23:46:40.800002Z,2021-03-01,Southern Africa,Western Africa,2021-03-21
+2021.41514,Angola,Guinea,3,Africa,Africa,2021-06-01T12:37:35.040002Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09385,Angola,Mali,3,Africa,Africa,2021-02-04T06:07:33.599999Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90619,Angola,Benin,3,Africa,Africa,2020-11-27T15:58:22.656005Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.26848,Angola,Australia,3,Africa,Australia,2021-04-08T23:53:05.280006Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30135,Angola,South Africa,3,Africa,Africa,2021-04-20T23:49:33.600006Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31504,Angola,South Africa,3,Africa,Africa,2021-04-25T23:45:01.440006Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24107,Angola,South Africa,3,Africa,Africa,2021-03-29T23:46:23.520001Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26298,Angola,South Africa,3,Africa,Africa,2021-04-06T23:42:17.279999Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43559,Angola,Namibia,3,Africa,Africa,2021-06-08T23:46:06.240001Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69124,Angola,Mozambique,3,Africa,Africa,2020-09-09T23:51:07.776003Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27394,Angola,South Africa,3,Africa,Africa,2021-04-10T23:42:51.840001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16436,Angola,South Africa,3,Africa,Africa,2021-03-01T23:47:36.960Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71581,Angola,South Africa,3,Africa,Africa,2020-09-18T23:40:30.144005Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82237,Angola,South Africa,3,Africa,Africa,2020-10-27T23:41:53.088003Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85242,Angola,South Africa,3,Africa,Africa,2020-11-07T23:39:26.208005Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90161,Angola,South Africa,3,Africa,Africa,2020-11-25T23:44:32.064004Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84969,Angola,South Africa,3,Africa,Africa,2020-11-06T23:40:37.056Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96172,Angola,South Africa,3,Africa,Africa,2020-12-17T23:44:54.528Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14243,Angola,South Africa,3,Africa,Africa,2021-02-21T23:41:12.480003Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15065,Angola,Zimbabwe,3,Africa,Africa,2021-02-24T23:41:38.400001Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69411,Angola,South Africa,3,Africa,Africa,2020-09-11T01:03:44.064004Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19176,Angola,South Africa,3,Africa,Africa,2021-03-11T23:49:03.360005Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22465,Angola,South Africa,3,Africa,Africa,2021-03-23T23:56:02.400003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12598,Angola,Namibia,3,Africa,Africa,2021-02-15T23:35:05.280001Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30407,Angola,Canada,3,Africa,North America,2021-04-21T23:39:11.520004Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17257,Angola,South Africa,3,Africa,Africa,2021-03-04T23:42:47.520006Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95625,Angola,Namibia,3,Africa,Africa,2020-12-15T23:42:00.000006Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43558,Angola,Namibia,3,Africa,Africa,2021-06-08T23:40:50.880002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43284,Angola,Namibia,3,Africa,Africa,2021-06-07T23:40:42.240005Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47941,Angola,Portugal,3,Africa,Europe,2021-06-24T23:37:53.760005Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34243,Angola,Portugal,3,Africa,Europe,2021-05-05T23:41:12.480005Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16433,Angola,South Africa,3,Africa,Africa,2021-03-01T23:31:50.880002Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36313,Angola,Burundi,3,Africa,Africa,2021-05-13T13:01:07.680006Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.1616,Angola,Somalia,3,Africa,Africa,2021-02-28T23:36:57.600004Z,2021-02-01,Southern Africa,Eastern Africa,2021-02-21
+2021.03041,Angola,Namibia,3,Africa,Africa,2021-01-12T02:23:29.760002Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01915,Angola,Zimbabwe,3,Africa,Africa,2021-01-07T23:45:14.400002Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40544,Angola,South Africa,3,Africa,Africa,2021-05-28T23:39:15.840Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.5123,Angola,Rwanda,3,Africa,Africa,2021-07-06T23:44:52.800003Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.28216,Angola,Oman,3,Africa,Asia,2021-04-13T23:43:17.759999Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.37808,Angola,Botswana,3,Africa,Africa,2021-05-18T23:58:50.880006Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.22735,Angola,South Africa,3,Africa,Africa,2021-03-24T23:35:09.600004Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95741,Angola,Portugal,3,Africa,Europe,2020-12-16T09:53:21.983999Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93805,Angola,Portugal,3,Africa,Europe,2020-12-09T07:49:52.319999Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18901,Angola,France,3,Africa,Europe,2021-03-10T23:43:39.360002Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01641,Angola,Zambia,3,Africa,Africa,2021-01-06T23:45:05.760006Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68031,Angola,United Kingdom,3,Africa,Europe,2020-09-05T23:50:34.944006Z,2020-09-01,Southern Africa,Western Europe,2020-08-23
+2020.58302,Angola,Namibia,3,Africa,Africa,2020-08-01T09:14:51.648001Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.49064,Angola,Namibia,3,Africa,Africa,2020-06-28T13:46:54.335999Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75954,Angola,Japan,3,Africa,Asia,2020-10-04T23:47:57.696001Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94059,Angola,Portugal,3,Africa,Europe,2020-12-10T06:08:33.216005Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.77829,Angola,Switzerland,3,Africa,Europe,2020-10-11T20:29:57.696006Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92953,Angola,Portugal,3,Africa,Europe,2020-12-06T04:59:29.472004Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84322,Angola,Portugal,3,Africa,Europe,2020-11-04T14:50:40.127999Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74867,Angola,Belgium,3,Africa,Europe,2020-10-01T00:19:02.208005Z,2020-10-01,Southern Africa,Western Europe,2020-09-20
+2020.95102,Angola,Portugal,3,Africa,Europe,2020-12-14T01:45:34.847999Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76328,Angola,France,3,Africa,Europe,2020-10-06T08:39:05.472004Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06298,Angola,United Kingdom,3,Africa,Europe,2021-01-23T23:42:17.280005Z,2021-01-01,Southern Africa,Western Europe,2021-01-10
+2020.78959,Angola,France,3,Africa,Europe,2020-10-15T23:45:30.816003Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77047,Angola,Canada,3,Africa,North America,2020-10-08T23:48:30.528005Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13422,Angola,France,3,Africa,Europe,2021-02-18T23:46:01.920004Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80326,Angola,United Kingdom,3,Africa,Europe,2020-10-20T23:50:09.024004Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.4082,Angola,Democratic Republic of the Congo,3,Africa,,2021-05-29T23:49:55.200002Z,2021-05-01,Southern Africa,,2021-05-16
+2021.04108,Angola,Namibia,3,Africa,Africa,2021-01-15T23:51:38.880006Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96951,Angola,Namibia,3,Africa,Africa,2020-12-20T20:10:33.024004Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.84971,Angola,Jordan,3,Africa,Asia,2020-11-06T23:51:09.504006Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.959,Angola,Republic of the Congo,3,Africa,,2020-12-16T23:51:21.600002Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85319,Angola,Canada,3,Africa,North America,2020-11-08T06:25:15.456001Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78217,Angola,Portugal,3,Africa,Europe,2020-10-13T06:34:52.608006Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.69122,Angola,Serbia,3,Africa,Europe,2020-09-09T23:40:35.328005Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.06144,Angola,Democratic Republic of the Congo,3,Africa,,2021-01-23T10:12:51.840006Z,2021-01-01,Southern Africa,,2021-01-10
+2020.75552,Angola,Republic of the Congo,3,Africa,,2020-10-03T12:29:15.648005Z,2020-10-01,Southern Africa,,2020-09-20
+2021.12052,Angola,Gabon,3,Africa,Africa,2021-02-13T23:45:18.720005Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20545,Angola,Tunisia,3,Africa,Africa,2021-03-16T23:44:31.200005Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.38213,Angola,Myanmar,3,Africa,Asia,2021-05-20T11:27:31.680006Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25749,Angola,New Zealand,3,Africa,Australia,2021-04-04T23:36:44.640006Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38626,Angola,South Sudan,3,Africa,,2021-05-21T23:38:15.360Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85476,Angola,Democratic Republic of the Congo,3,Africa,,2021-11-08T23:41:51.360005Z,2021-11-01,Southern Africa,,2021-10-31
+2021.33968,Angola,Barbados,3,Africa,South America,2021-05-04T23:35:48.480001Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.86023,Angola,Morocco,3,Africa,Africa,2021-11-10T23:36:53.280Z,2021-11-01,Southern Africa,Northern Africa,2021-10-31
+2021.47393,Angola,Finland,3,Africa,Europe,2021-06-22T23:37:36.480003Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.32872,Angola,India,3,Africa,Asia,2021-04-30T23:35:13.919999Z,2021-04-01,Southern Africa,India+,2021-04-18
+2021.97803,Angola,Indonesia,3,Africa,Asia,2021-12-23T23:32:34.080Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.2764,Angola,Portugal,3,Africa,Europe,2021-04-11T21:15:50.400006Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50406,Angola,Barbados,3,Africa,South America,2021-07-03T23:33:56.159999Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.29094,Angola,Zimbabwe,3,Africa,Africa,2021-04-17T04:38:03.840003Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53679,Angola,USA,3,Africa,,2021-07-15T22:16:49.440003Z,2021-07-01,Southern Africa,,2021-07-11
+2021.56115,Angola,Myanmar,3,Africa,Asia,2021-07-24T19:40:26.400Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50954,Angola,Zambia,3,Africa,Africa,2021-07-05T23:34:13.440001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70135,Angola,Portugal,3,Africa,Europe,2021-09-13T23:49:33.600002Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69313,Angola,Japan,3,Africa,Asia,2021-09-10T23:49:07.680003Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68214,Angola,Portugal,3,Africa,Europe,2021-09-06T23:32:47.040004Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32758,Angola,Namibia,3,Africa,Africa,2021-04-30T13:36:02.880004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67122,Angola,South Africa,3,Africa,Africa,2021-09-02T23:53:13.920006Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.6219,Angola,Namibia,3,Africa,Africa,2021-08-15T23:50:38.400003Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50683,Angola,Zambia,3,Africa,Africa,2021-07-04T23:49:50.880001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.6493,Angola,South Africa,3,Africa,Africa,2021-08-25T23:52:04.800001Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.4758,Angola,Namibia,3,Africa,Africa,2021-06-23T16:00:28.800005Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53696,Angola,Namibia,3,Africa,Africa,2021-07-15T23:46:10.560004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.79998,Angola,Portugal,3,Africa,Europe,2021-10-19T23:49:29.280Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52687,Angola,South Africa,3,Africa,Africa,2021-07-12T07:22:52.320004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60821,Angola,South Africa,3,Africa,Africa,2021-08-10T23:55:10.560003Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.69862,Angola,South Africa,3,Africa,Africa,2021-09-12T23:54:40.320004Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55503,Angola,Namibia,3,Africa,Africa,2021-07-22T14:03:46.080Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75339,Angola,South Africa,3,Africa,Africa,2021-10-02T23:41:47.040003Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52873,Angola,Namibia,3,Africa,Africa,2021-07-12T23:40:29.280Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68763,Angola,South Africa,3,Africa,Africa,2021-09-08T23:38:19.680004Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36947,Angola,Namibia,3,Africa,Africa,2021-05-15T20:33:25.920003Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.85473,Angola,Democratic Republic of the Congo,3,Africa,,2021-11-08T23:26:05.280Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64184,Angola,Portugal,3,Africa,Europe,2021-08-23T06:31:06.240Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2021.18359,Angola,Senegal,4,Africa,Africa,2021-03-09T00:14:54.240003Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18359,Angola,South Africa,4,Africa,Africa,2021-03-09T00:14:54.240003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26303,Angola,Portugal,4,Africa,Europe,2021-04-07T00:08:34.080002Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09593,Angola,Benin,4,Africa,Africa,2021-02-05T00:20:48.480006Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05261,Angola,Kenya,4,Africa,Africa,2021-01-20T04:51:48.960006Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95345,Angola,USA,4,Africa,,2020-12-14T23:06:17.280006Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00207,Angola,Nigeria,4,Africa,Africa,2021-01-01T18:07:59.520007Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25855,Angola,Sao Tome and Principe,4,Africa,Africa,2021-04-05T08:53:52.800008Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26305,Angola,Portugal,4,Africa,Europe,2021-04-07T00:19:04.800008Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35072,Angola,Portugal,4,Africa,Europe,2021-05-09T00:18:25.920004Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.60004,Angola,Panama,4,Africa,South America,2021-08-08T00:21:01.440001Z,2021-08-01,Southern Africa,Rest Central America,2021-08-08
+2021.32333,Angola,Poland,4,Africa,Europe,2021-04-29T00:22:14.880005Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29868,Angola,Bulgaria,4,Africa,Europe,2021-04-20T00:26:12.480003Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23567,Angola,Ireland,4,Africa,Europe,2021-03-28T00:28:09.120008Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16169,Angola,Greece,4,Africa,Europe,2021-03-01T00:24:15.840004Z,2021-03-01,Southern Africa,Western Europe,2021-02-21
+2021.12988,Angola,USA,4,Africa,,2021-02-17T09:44:55.680006Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12607,Angola,Denmark,4,Africa,Europe,2021-02-16T00:22:23.520008Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14251,Angola,Bulgaria,4,Africa,Europe,2021-02-22T00:23:15.360004Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27128,Angola,Portugal,4,Africa,Europe,2021-04-10T00:24:46.080005Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20595,Angola,Portugal,4,Africa,Europe,2021-03-17T04:07:19.200008Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34525,Angola,Portugal,4,Africa,Europe,2021-05-07T00:23:24.000002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12636,Angola,Portugal,4,Africa,Europe,2021-02-16T02:54:48.960006Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18337,Angola,Mauritius,4,Africa,Africa,2021-03-08T22:19:16.320006Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37535,Angola,Liberia,4,Africa,Africa,2021-05-18T00:03:57.600008Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.00665,Angola,Antigua and Barbuda,4,Africa,,2021-01-03T10:15:14.400001Z,2021-01-01,Southern Africa,,2020-12-27
+2021.15001,Angola,Guinea,4,Africa,Africa,2021-02-24T18:05:15.360002Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39179,Angola,Gambia,4,Africa,Africa,2021-05-24T00:04:49.440004Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38357,Angola,Benin,4,Africa,Africa,2021-05-21T00:04:23.520006Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34248,Angola,Bangladesh,4,Africa,Asia,2021-05-06T00:07:29.280008Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.0685,Angola,Togo,4,Africa,Africa,2021-01-26T00:03:36.000003Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43562,Angola,Gabon,4,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53425,Angola,Sao Tome and Principe,4,Africa,Africa,2021-07-15T00:01:48.000005Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13425,Angola,Portugal,4,Africa,Europe,2021-02-19T00:01:48.000002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09519,Angola,Nigeria,4,Africa,Africa,2021-02-04T17:51:51.840007Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27123,Angola,Philippines,4,Africa,Asia,2021-04-09T23:58:29.280002Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.44109,Angola,South Africa,4,Africa,Africa,2021-06-10T23:56:54.240008Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.20004,Angola,Portugal,4,Africa,Europe,2021-03-15T00:21:01.440005Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09593,Angola,Niger,4,Africa,Africa,2021-02-05T00:20:48.480006Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08497,Angola,Benin,4,Africa,Africa,2021-02-01T00:20:13.920004Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.36168,Angola,Democratic Republic of the Congo,4,Africa,,2021-05-13T00:19:00.480006Z,2021-05-01,Southern Africa,,2021-05-02
+2021.3836,Angola,Djibouti,4,Africa,Africa,2021-05-21T00:20:09.600004Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37812,Angola,Israel,4,Africa,Europe,2021-05-19T00:19:52.320003Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.40003,Angola,South Sudan,4,Africa,,2021-05-27T00:15:46.080008Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41647,Angola,Senegal,4,Africa,Africa,2021-06-02T00:16:37.920004Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24661,Angola,Mali,4,Africa,Africa,2021-04-01T00:18:12.960005Z,2021-04-01,Southern Africa,Western Africa,2021-03-21
+2021.415,Angola,Guinea,4,Africa,Africa,2021-06-01T11:24:00.000006Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09267,Angola,Mali,4,Africa,Africa,2021-02-03T19:47:21.120007Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90291,Angola,Benin,4,Africa,Africa,2020-11-26T11:09:41.184008Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.26854,Angola,Australia,4,Africa,Australia,2021-04-09T00:24:37.440008Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30141,Angola,South Africa,4,Africa,Africa,2021-04-21T00:21:05.760001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.3151,Angola,South Africa,4,Africa,Africa,2021-04-26T00:16:33.600008Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24113,Angola,South Africa,4,Africa,Africa,2021-03-30T00:17:55.680004Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26305,Angola,South Africa,4,Africa,Africa,2021-04-07T00:19:04.800008Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43566,Angola,Namibia,4,Africa,Africa,2021-06-09T00:22:53.760003Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.6913,Angola,Mozambique,4,Africa,Africa,2020-09-10T00:22:45.120006Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27402,Angola,South Africa,4,Africa,Africa,2021-04-11T00:24:54.720002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16443,Angola,South Africa,4,Africa,Africa,2021-03-02T00:24:24.480001Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71589,Angola,South Africa,4,Africa,Africa,2020-09-19T00:22:39.936005Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82245,Angola,South Africa,4,Africa,Africa,2020-10-28T00:24:02.880004Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.8525,Angola,South Africa,4,Africa,Africa,2020-11-08T00:21:36.000006Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.9017,Angola,South Africa,4,Africa,Africa,2020-11-26T00:31:58.080004Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84977,Angola,South Africa,4,Africa,Africa,2020-11-07T00:22:46.848001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96179,Angola,South Africa,4,Africa,Africa,2020-12-18T00:21:48.096002Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14251,Angola,South Africa,4,Africa,Africa,2021-02-22T00:23:15.360004Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15073,Angola,Zimbabwe,4,Africa,Africa,2021-02-25T00:23:41.280002Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69408,Angola,South Africa,4,Africa,Africa,2020-09-11T00:47:55.392007Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19182,Angola,South Africa,4,Africa,Africa,2021-03-12T00:20:35.520007Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.2247,Angola,South Africa,4,Africa,Africa,2021-03-24T00:22:19.200007Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12608,Angola,Namibia,4,Africa,Africa,2021-02-16T00:27:38.880007Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30416,Angola,Canada,4,Africa,North America,2021-04-22T00:26:29.760004Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17266,Angola,South Africa,4,Africa,Africa,2021-03-05T00:30:05.760006Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95632,Angola,Namibia,4,Africa,Africa,2020-12-16T00:18:53.568007Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43565,Angola,Namibia,4,Africa,Africa,2021-06-09T00:17:38.400004Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43291,Angola,Namibia,4,Africa,Africa,2021-06-08T00:17:29.760007Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47949,Angola,Portugal,4,Africa,Europe,2021-06-25T00:19:56.640005Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34252,Angola,Portugal,4,Africa,Europe,2021-05-06T00:28:30.720005Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16442,Angola,South Africa,4,Africa,Africa,2021-03-02T00:19:09.120002Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36291,Angola,Burundi,4,Africa,Africa,2021-05-13T11:05:29.760002Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16169,Angola,Somalia,4,Africa,Africa,2021-03-01T00:24:15.840004Z,2021-03-01,Southern Africa,Eastern Africa,2021-02-21
+2021.0295,Angola,Namibia,4,Africa,Africa,2021-01-11T18:25:12.000003Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01921,Angola,Zimbabwe,4,Africa,Africa,2021-01-08T00:16:46.560005Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40551,Angola,South Africa,4,Africa,Africa,2021-05-29T00:16:03.360002Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.51236,Angola,Rwanda,4,Africa,Africa,2021-07-07T00:16:24.960006Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.28222,Angola,Oman,4,Africa,Asia,2021-04-14T00:14:49.920002Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.37812,Angola,Botswana,4,Africa,Africa,2021-05-19T00:19:52.320003Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.05894,Angola,Democratic Republic of the Congo,4,Africa,,2021-01-22T12:18:51.840004Z,2021-01-01,Southern Africa,,2021-01-10
+2020.75007,Angola,Republic of the Congo,4,Africa,,2020-10-01T12:36:53.568002Z,2020-10-01,Southern Africa,,2020-09-20
+2021.22745,Angola,South Africa,4,Africa,Africa,2021-03-25T00:27:43.200003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95586,Angola,Portugal,4,Africa,Europe,2020-12-15T20:16:27.264008Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93779,Angola,Portugal,4,Africa,Europe,2020-12-09T05:32:50.496006Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18908,Angola,France,4,Africa,Europe,2021-03-11T00:20:26.880003Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01648,Angola,Zambia,4,Africa,Africa,2021-01-07T00:21:53.280007Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68038,Angola,United Kingdom,4,Africa,Europe,2020-09-06T00:27:28.512008Z,2020-09-01,Southern Africa,Western Europe,2020-09-06
+2020.5827,Angola,Namibia,4,Africa,Africa,2020-08-01T06:26:12.480005Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.4895,Angola,Namibia,4,Africa,Africa,2020-06-28T03:46:04.800004Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75961,Angola,Japan,4,Africa,Asia,2020-10-05T00:24:51.264002Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94029,Angola,Portugal,4,Africa,Europe,2020-12-10T03:30:26.496007Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.77603,Angola,Switzerland,4,Africa,Europe,2020-10-11T00:38:51.072007Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92909,Angola,Portugal,4,Africa,Europe,2020-12-06T01:07:35.616003Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84254,Angola,Portugal,4,Africa,Europe,2020-11-04T08:52:16.896003Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74816,Angola,Belgium,4,Africa,Europe,2020-09-30T19:50:14.784003Z,2020-09-01,Southern Africa,Western Europe,2020-09-20
+2020.95032,Angola,Portugal,4,Africa,Europe,2020-12-13T19:36:39.168005Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76305,Angola,France,4,Africa,Europe,2020-10-06T06:37:52.320008Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06305,Angola,United Kingdom,4,Africa,Europe,2021-01-24T00:19:04.800006Z,2021-01-01,Southern Africa,Western Europe,2021-01-24
+2020.78966,Angola,France,4,Africa,Europe,2020-10-16T00:22:24.384004Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77054,Angola,Canada,4,Africa,North America,2020-10-09T00:25:24.096007Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13428,Angola,France,4,Africa,Europe,2021-02-19T00:17:34.080007Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80332,Angola,United Kingdom,4,Africa,Europe,2020-10-21T00:21:46.368007Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40826,Angola,Democratic Republic of the Congo,4,Africa,,2021-05-30T00:21:27.360005Z,2021-05-01,Southern Africa,,2021-05-30
+2021.04114,Angola,Namibia,4,Africa,Africa,2021-01-16T00:23:11.040001Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96889,Angola,Namibia,4,Africa,Africa,2020-12-20T14:43:47.136003Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.84978,Angola,Jordan,4,Africa,Asia,2020-11-07T00:28:03.072007Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95907,Angola,Republic of the Congo,4,Africa,,2020-12-17T00:28:15.168004Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85024,Angola,Canada,4,Africa,North America,2020-11-07T04:30:29.376007Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78087,Angola,Portugal,4,Africa,Europe,2020-10-12T19:09:43.488002Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.68895,Angola,Serbia,4,Africa,Europe,2020-09-09T03:44:12.480006Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.12058,Angola,Gabon,4,Africa,Africa,2021-02-14T00:16:50.880008Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20551,Angola,Tunisia,4,Africa,Africa,2021-03-17T00:16:03.360007Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.38202,Angola,Myanmar,4,Africa,Asia,2021-05-20T10:29:42.720007Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25756,Angola,New Zealand,4,Africa,Australia,2021-04-05T00:13:32.160007Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38634,Angola,South Sudan,4,Africa,,2021-05-22T00:20:18.240008Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85482,Angola,Democratic Republic of the Congo,4,Africa,,2021-11-09T00:13:23.520008Z,2021-11-01,Southern Africa,,2021-10-31
+2021.21774,Angola,Portugal,4,Africa,Europe,2021-03-21T11:24:08.640002Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.32879,Angola,India,4,Africa,Asia,2021-05-01T00:12:01.440008Z,2021-05-01,Southern Africa,India+,2021-04-18
+2021.97811,Angola,Indonesia,4,Africa,Asia,2021-12-24T00:14:36.960008Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.27482,Angola,Portugal,4,Africa,Europe,2021-04-11T07:25:23.520003Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50413,Angola,Barbados,4,Africa,South America,2021-07-04T00:10:43.680008Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.28885,Angola,Zimbabwe,4,Africa,Africa,2021-04-16T10:19:33.600004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53575,Angola,USA,4,Africa,,2021-07-15T13:10:12.000007Z,2021-07-01,Southern Africa,,2021-07-11
+2021.55996,Angola,Myanmar,4,Africa,Asia,2021-07-24T09:14:58.560001Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50962,Angola,Zambia,4,Africa,Africa,2021-07-06T00:16:16.320001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70141,Angola,Portugal,4,Africa,Europe,2021-09-14T00:21:05.760004Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69319,Angola,Japan,4,Africa,Asia,2021-09-11T00:20:39.840006Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68221,Angola,Portugal,4,Africa,Europe,2021-09-07T00:09:34.560005Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32779,Angola,Namibia,4,Africa,Africa,2021-04-30T15:26:25.440001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67126,Angola,South Africa,4,Africa,Africa,2021-09-03T00:14:15.360002Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.62195,Angola,Namibia,4,Africa,Africa,2021-08-16T00:16:55.200006Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50688,Angola,Zambia,4,Africa,Africa,2021-07-05T00:16:07.680004Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.64935,Angola,South Africa,4,Africa,Africa,2021-08-26T00:18:21.600004Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47445,Angola,Namibia,4,Africa,Africa,2021-06-23T04:10:55.200005Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53702,Angola,Namibia,4,Africa,Africa,2021-07-16T00:17:42.720007Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.80002,Angola,Portugal,4,Africa,Europe,2021-10-20T00:10:30.720004Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52657,Angola,South Africa,4,Africa,Africa,2021-07-12T04:45:11.520007Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60825,Angola,South Africa,4,Africa,Africa,2021-08-11T00:16:12.000007Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.69866,Angola,South Africa,4,Africa,Africa,2021-09-13T00:15:41.760008Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55355,Angola,Namibia,4,Africa,Africa,2021-07-22T01:05:52.800003Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75346,Angola,South Africa,4,Africa,Africa,2021-10-03T00:18:34.560004Z,2021-10-01,Southern Africa,Southern Africa,2021-10-03
+2021.5288,Angola,Namibia,4,Africa,Africa,2021-07-13T00:17:16.800001Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68772,Angola,South Africa,4,Africa,Africa,2021-09-09T00:25:37.920004Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36651,Angola,Namibia,4,Africa,Africa,2021-05-14T18:37:39.360002Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.85484,Angola,Democratic Republic of the Congo,4,Africa,,2021-11-09T00:23:54.240006Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64172,Angola,Portugal,4,Africa,Europe,2021-08-23T05:28:01.920002Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2020.96641,Angola,Portugal,5,Africa,Europe,2020-12-19T16:56:43.584Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2021.18354,Angola,Senegal,5,Africa,Africa,2021-03-08T23:48:37.440Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18355,Angola,South Africa,5,Africa,Africa,2021-03-08T23:53:52.800006Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26302,Angola,Portugal,5,Africa,Europe,2021-04-07T00:03:18.720003Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09587,Angola,Benin,5,Africa,Africa,2021-02-04T23:49:16.320003Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05453,Angola,Kenya,5,Africa,Africa,2021-01-20T21:40:58.080003Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95704,Angola,USA,5,Africa,,2020-12-16T06:38:21.696Z,2020-12-01,Southern Africa,,2020-12-13
+2021.0045,Angola,Nigeria,5,Africa,Africa,2021-01-02T15:25:12Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25917,Angola,Sao Tome and Principe,5,Africa,Africa,2021-04-05T14:19:45.120001Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.263,Angola,Portugal,5,Africa,Europe,2021-04-06T23:52:48.000005Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35068,Angola,Portugal,5,Africa,Europe,2021-05-08T23:57:24.480Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.59999,Angola,Panama,5,Africa,South America,2021-08-07T23:54:44.640005Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.32328,Angola,Poland,5,Africa,Europe,2021-04-28T23:55:58.080002Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29863,Angola,Bulgaria,5,Africa,Europe,2021-04-19T23:59:55.680Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23561,Angola,Ireland,5,Africa,Europe,2021-03-27T23:56:36.960006Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16165,Angola,Greece,5,Africa,Europe,2021-03-01T00:03:14.400Z,2021-03-01,Southern Africa,Western Europe,2021-02-21
+2021.13378,Angola,USA,5,Africa,,2021-02-18T19:54:46.080004Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12602,Angola,Denmark,5,Africa,Europe,2021-02-15T23:56:06.720005Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14246,Angola,Bulgaria,5,Africa,Europe,2021-02-21T23:56:58.560001Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27124,Angola,Portugal,5,Africa,Europe,2021-04-10T00:03:44.640001Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20685,Angola,Portugal,5,Africa,Europe,2021-03-17T12:00:21.600001Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34519,Angola,Portugal,5,Africa,Europe,2021-05-06T23:51:51.840Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12634,Angola,Portugal,5,Africa,Europe,2021-02-16T02:44:18.240001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18408,Angola,Mauritius,5,Africa,Africa,2021-03-09T04:32:26.880Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37533,Angola,Liberia,5,Africa,Africa,2021-05-17T23:53:26.880002Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.00704,Angola,Antigua and Barbuda,5,Africa,,2021-01-03T13:40:13.440006Z,2021-01-01,Southern Africa,,2020-12-27
+2021.15039,Angola,Guinea,5,Africa,Africa,2021-02-24T21:24:59.040Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39177,Angola,Gambia,5,Africa,Africa,2021-05-23T23:54:18.720006Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38355,Angola,Benin,5,Africa,Africa,2021-05-20T23:53:52.800Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34245,Angola,Bangladesh,5,Africa,Asia,2021-05-05T23:51:43.200003Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06848,Angola,Togo,5,Africa,Africa,2021-01-25T23:53:05.280004Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.4356,Angola,Gabon,5,Africa,Africa,2021-06-08T23:51:21.600001Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53423,Angola,Sao Tome and Principe,5,Africa,Africa,2021-07-14T23:51:17.279999Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13424,Angola,Portugal,5,Africa,Europe,2021-02-18T23:56:32.640003Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09614,Angola,Nigeria,5,Africa,Africa,2021-02-05T02:11:11.040003Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27122,Angola,Philippines,5,Africa,Asia,2021-04-09T23:53:13.920003Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.19999,Angola,Portugal,5,Africa,Europe,2021-03-14T23:54:44.640002Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09588,Angola,Niger,5,Africa,Africa,2021-02-04T23:54:31.680002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08492,Angola,Benin,5,Africa,Africa,2021-01-31T23:53:57.120Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36163,Angola,Democratic Republic of the Congo,5,Africa,,2021-05-12T23:52:43.680003Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38355,Angola,Djibouti,5,Africa,Africa,2021-05-20T23:53:52.800Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37807,Angola,Israel,5,Africa,Europe,2021-05-18T23:53:35.519999Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.39999,Angola,South Sudan,5,Africa,,2021-05-26T23:54:44.640004Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41643,Angola,Senegal,5,Africa,Africa,2021-06-01T23:55:36.480Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24656,Angola,Mali,5,Africa,Africa,2021-03-31T23:51:56.160002Z,2021-03-01,Southern Africa,Western Africa,2021-03-21
+2021.41523,Angola,Guinea,5,Africa,Africa,2021-06-01T13:24:53.280002Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09429,Angola,Mali,5,Africa,Africa,2021-02-04T09:58:49.440Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90736,Angola,Benin,5,Africa,Africa,2020-11-28T02:15:00.864005Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.26849,Angola,Australia,5,Africa,Australia,2021-04-08T23:58:20.640005Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30137,Angola,South Africa,5,Africa,Africa,2021-04-21T00:00:04.320004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31506,Angola,South Africa,5,Africa,Africa,2021-04-25T23:55:32.160004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24109,Angola,South Africa,5,Africa,Africa,2021-03-29T23:56:54.240Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26302,Angola,South Africa,5,Africa,Africa,2021-04-07T00:03:18.720003Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43562,Angola,Namibia,5,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69127,Angola,Mozambique,5,Africa,Africa,2020-09-10T00:06:56.448001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27398,Angola,South Africa,5,Africa,Africa,2021-04-11T00:03:53.280005Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.1644,Angola,South Africa,5,Africa,Africa,2021-03-02T00:08:38.400004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71586,Angola,South Africa,5,Africa,Africa,2020-09-19T00:06:51.264001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82241,Angola,South Africa,5,Africa,Africa,2020-10-28T00:02:57.984Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85245,Angola,South Africa,5,Africa,Africa,2020-11-07T23:55:14.880003Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90165,Angola,South Africa,5,Africa,Africa,2020-11-26T00:05:36.960001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84973,Angola,South Africa,5,Africa,Africa,2020-11-07T00:01:41.952004Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96176,Angola,South Africa,5,Africa,Africa,2020-12-18T00:05:59.424005Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14247,Angola,South Africa,5,Africa,Africa,2021-02-22T00:02:13.920Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.1507,Angola,Zimbabwe,5,Africa,Africa,2021-02-25T00:07:55.200005Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69416,Angola,South Africa,5,Africa,Africa,2020-09-11T01:30:05.184Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19179,Angola,South Africa,5,Africa,Africa,2021-03-12T00:04:49.440003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22467,Angola,South Africa,5,Africa,Africa,2021-03-24T00:06:33.120002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12602,Angola,Namibia,5,Africa,Africa,2021-02-15T23:56:06.720005Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30411,Angola,Canada,5,Africa,North America,2021-04-22T00:00:12.960001Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.1726,Angola,South Africa,5,Africa,Africa,2021-03-04T23:58:33.600003Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95629,Angola,Namibia,5,Africa,Africa,2020-12-16T00:03:04.896003Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43562,Angola,Namibia,5,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43288,Angola,Namibia,5,Africa,Africa,2021-06-08T00:01:43.680002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47944,Angola,Portugal,5,Africa,Europe,2021-06-24T23:53:39.840002Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34248,Angola,Portugal,5,Africa,Europe,2021-05-06T00:07:29.280001Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16438,Angola,South Africa,5,Africa,Africa,2021-03-01T23:58:07.680005Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.3633,Angola,Burundi,5,Africa,Africa,2021-05-13T14:30:28.799999Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16166,Angola,Somalia,5,Africa,Africa,2021-03-01T00:08:29.760Z,2021-03-01,Southern Africa,Eastern Africa,2021-02-21
+2021.03078,Angola,Namibia,5,Africa,Africa,2021-01-12T05:37:58.080002Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01919,Angola,Zimbabwe,5,Africa,Africa,2021-01-08T00:06:15.839999Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40549,Angola,South Africa,5,Africa,Africa,2021-05-29T00:05:32.640003Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.51234,Angola,Rwanda,5,Africa,Africa,2021-07-07T00:05:54.240Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.2822,Angola,Oman,5,Africa,Asia,2021-04-14T00:04:19.200003Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.3781,Angola,Botswana,5,Africa,Africa,2021-05-19T00:09:21.600004Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.22741,Angola,South Africa,5,Africa,Africa,2021-03-25T00:06:41.760006Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95804,Angola,Portugal,5,Africa,Europe,2020-12-16T15:25:24.095999Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93803,Angola,Portugal,5,Africa,Europe,2020-12-09T07:39:19.872001Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18904,Angola,France,5,Africa,Europe,2021-03-10T23:59:25.439999Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01644,Angola,Zambia,5,Africa,Africa,2021-01-07T00:00:51.840003Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68033,Angola,United Kingdom,5,Africa,Europe,2020-09-06T00:01:07.392004Z,2020-09-01,Southern Africa,Western Europe,2020-09-06
+2020.5832,Angola,Namibia,5,Africa,Africa,2020-08-01T10:49:43.680001Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.49137,Angola,Namibia,5,Africa,Africa,2020-06-28T20:11:38.688006Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75956,Angola,Japan,5,Africa,Asia,2020-10-04T23:58:30.144006Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94075,Angola,Portugal,5,Africa,Europe,2020-12-10T07:32:52.799999Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.7792,Angola,Switzerland,5,Africa,Europe,2020-10-12T04:29:34.080005Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92977,Angola,Portugal,5,Africa,Europe,2020-12-06T07:05:58.848006Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.8435,Angola,Portugal,5,Africa,Europe,2020-11-04T17:18:14.400006Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.7489,Angola,Belgium,5,Africa,Europe,2020-10-01T02:20:15.360002Z,2020-10-01,Southern Africa,Western Europe,2020-09-20
+2020.9513,Angola,Portugal,5,Africa,Europe,2020-12-14T04:13:09.120006Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76339,Angola,France,5,Africa,Europe,2020-10-06T09:37:03.936002Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06302,Angola,United Kingdom,5,Africa,Europe,2021-01-24T00:03:18.720002Z,2021-01-01,Southern Africa,Western Europe,2021-01-24
+2020.78963,Angola,France,5,Africa,Europe,2020-10-16T00:06:35.712Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.7705,Angola,Canada,5,Africa,North America,2020-10-09T00:04:19.200003Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13425,Angola,France,5,Africa,Europe,2021-02-19T00:01:48.000002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80329,Angola,United Kingdom,5,Africa,Europe,2020-10-21T00:05:57.696002Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40822,Angola,Democratic Republic of the Congo,5,Africa,,2021-05-30T00:00:25.920001Z,2021-05-01,Southern Africa,,2021-05-30
+2021.0411,Angola,Namibia,5,Africa,Africa,2021-01-16T00:02:09.600004Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96991,Angola,Namibia,5,Africa,Africa,2020-12-20T23:41:21.984001Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.84974,Angola,Jordan,5,Africa,Asia,2020-11-07T00:06:58.176003Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95903,Angola,Republic of the Congo,5,Africa,,2020-12-17T00:07:10.272Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85324,Angola,Canada,5,Africa,North America,2020-11-08T06:51:36.576005Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78368,Angola,Portugal,5,Africa,Europe,2020-10-13T19:50:42.432Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.69259,Angola,Serbia,5,Africa,Europe,2020-09-10T11:42:38.016003Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.06326,Angola,Democratic Republic of the Congo,5,Africa,,2021-01-24T02:09:27.360004Z,2021-01-01,Southern Africa,,2021-01-24
+2020.75327,Angola,Republic of the Congo,5,Africa,,2020-10-02T16:43:25.248005Z,2020-10-01,Southern Africa,,2020-09-20
+2021.12055,Angola,Gabon,5,Africa,Africa,2021-02-14T00:01:04.800003Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20548,Angola,Tunisia,5,Africa,Africa,2021-03-17T00:00:17.280003Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.38237,Angola,Myanmar,5,Africa,Asia,2021-05-20T13:33:40.320001Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25752,Angola,New Zealand,5,Africa,Australia,2021-04-04T23:52:30.720004Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38629,Angola,South Sudan,5,Africa,,2021-05-21T23:54:01.440005Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85477,Angola,Democratic Republic of the Congo,5,Africa,,2021-11-08T23:47:06.720005Z,2021-11-01,Southern Africa,,2021-10-31
+2021.33969,Angola,Barbados,5,Africa,South America,2021-05-04T23:41:03.840001Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.86025,Angola,Morocco,5,Africa,Africa,2021-11-10T23:47:24.000006Z,2021-11-01,Southern Africa,Northern Africa,2021-10-31
+2021.47394,Angola,Finland,5,Africa,Europe,2021-06-22T23:42:51.840003Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.32873,Angola,India,5,Africa,Asia,2021-04-30T23:40:29.280006Z,2021-04-01,Southern Africa,India+,2021-04-18
+2021.97805,Angola,Indonesia,5,Africa,Asia,2021-12-23T23:43:04.800005Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.27628,Angola,Portugal,5,Africa,Europe,2021-04-11T20:12:46.080001Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50407,Angola,Barbados,5,Africa,South America,2021-07-03T23:39:11.520006Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.29186,Angola,Zimbabwe,5,Africa,Africa,2021-04-17T12:41:36.960001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53712,Angola,USA,5,Africa,,2021-07-16T01:10:16.320006Z,2021-07-01,Southern Africa,,2021-07-11
+2021.56133,Angola,Myanmar,5,Africa,Asia,2021-07-24T21:15:02.880Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50954,Angola,Zambia,5,Africa,Africa,2021-07-05T23:34:13.440001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70135,Angola,Portugal,5,Africa,Europe,2021-09-13T23:49:33.600002Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69313,Angola,Japan,5,Africa,Asia,2021-09-10T23:49:07.680003Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68215,Angola,Portugal,5,Africa,Europe,2021-09-06T23:38:02.400003Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32789,Angola,Namibia,5,Africa,Africa,2021-04-30T16:18:59.040001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.6712,Angola,South Africa,5,Africa,Africa,2021-09-02T23:42:43.200Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.62189,Angola,Namibia,5,Africa,Africa,2021-08-15T23:45:23.040004Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50682,Angola,Zambia,5,Africa,Africa,2021-07-04T23:44:35.520002Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.64929,Angola,South Africa,5,Africa,Africa,2021-08-25T23:46:49.440002Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47558,Angola,Namibia,5,Africa,Africa,2021-06-23T14:04:50.880001Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53696,Angola,Namibia,5,Africa,Africa,2021-07-15T23:46:10.560004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.79997,Angola,Portugal,5,Africa,Europe,2021-10-19T23:44:13.920001Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52708,Angola,South Africa,5,Africa,Africa,2021-07-12T09:13:14.880002Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60819,Angola,South Africa,5,Africa,Africa,2021-08-10T23:44:39.840005Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.6986,Angola,South Africa,5,Africa,Africa,2021-09-12T23:44:09.600005Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55544,Angola,Namibia,5,Africa,Africa,2021-07-22T17:39:15.840003Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75339,Angola,South Africa,5,Africa,Africa,2021-10-02T23:41:47.040003Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52872,Angola,Namibia,5,Africa,Africa,2021-07-12T23:35:13.920001Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68763,Angola,South Africa,5,Africa,Africa,2021-09-08T23:38:19.680004Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36994,Angola,Namibia,5,Africa,Africa,2021-05-16T00:40:27.840001Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.85476,Angola,Democratic Republic of the Congo,5,Africa,,2021-11-08T23:41:51.360005Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64192,Angola,Portugal,5,Africa,Europe,2021-08-23T07:13:09.120001Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2020.96629,Angola,Portugal,6,Africa,Europe,2020-12-19T15:53:28.896002Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2021.18357,Angola,Senegal,6,Africa,Africa,2021-03-09T00:04:23.520005Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18357,Angola,South Africa,6,Africa,Africa,2021-03-09T00:04:23.520005Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26304,Angola,Portugal,6,Africa,Europe,2021-04-07T00:13:49.440001Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.0959,Angola,Benin,6,Africa,Africa,2021-02-05T00:05:02.400001Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.0544,Angola,Kenya,6,Africa,Africa,2021-01-20T20:32:38.400007Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95676,Angola,USA,6,Africa,,2020-12-16T04:10:47.424001Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00447,Angola,Nigeria,6,Africa,Africa,2021-01-02T15:09:25.920003Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25912,Angola,Sao Tome and Principe,6,Africa,Africa,2021-04-05T13:53:28.320005Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26303,Angola,Portugal,6,Africa,Europe,2021-04-07T00:08:34.080002Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.3507,Angola,Portugal,6,Africa,Europe,2021-05-09T00:07:55.200006Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.60002,Angola,Panama,6,Africa,South America,2021-08-08T00:10:30.720003Z,2021-08-01,Southern Africa,Rest Central America,2021-08-08
+2021.3233,Angola,Poland,6,Africa,Europe,2021-04-29T00:06:28.800008Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29865,Angola,Bulgaria,6,Africa,Europe,2021-04-20T00:10:26.400006Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23564,Angola,Ireland,6,Africa,Europe,2021-03-28T00:12:23.040003Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16167,Angola,Greece,6,Africa,Europe,2021-03-01T00:13:45.120006Z,2021-03-01,Southern Africa,Western Europe,2021-02-21
+2021.13262,Angola,USA,6,Africa,,2021-02-18T09:45:04.320003Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12606,Angola,Denmark,6,Africa,Europe,2021-02-16T00:17:08.160002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.1425,Angola,Bulgaria,6,Africa,Europe,2021-02-22T00:18:00.000005Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27128,Angola,Portugal,6,Africa,Europe,2021-04-10T00:24:46.080005Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20678,Angola,Portugal,6,Africa,Europe,2021-03-17T11:23:34.080007Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34525,Angola,Portugal,6,Africa,Europe,2021-05-07T00:23:24.000002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12636,Angola,Portugal,6,Africa,Europe,2021-02-16T02:54:48.960006Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18397,Angola,Mauritius,6,Africa,Africa,2021-03-09T03:34:37.920002Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37534,Angola,Liberia,6,Africa,Africa,2021-05-17T23:58:42.240002Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.01038,Angola,Antigua and Barbuda,6,Africa,,2021-01-04T18:55:43.680005Z,2021-01-01,Southern Africa,,2020-12-27
+2021.15111,Angola,Guinea,6,Africa,Africa,2021-02-25T03:43:24.960008Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39178,Angola,Gambia,6,Africa,Africa,2021-05-23T23:59:34.080005Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38356,Angola,Benin,6,Africa,Africa,2021-05-20T23:59:08.160007Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34247,Angola,Bangladesh,6,Africa,Asia,2021-05-06T00:02:13.920002Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.0685,Angola,Togo,6,Africa,Africa,2021-01-26T00:03:36.000003Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43562,Angola,Gabon,6,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53425,Angola,Sao Tome and Principe,6,Africa,Africa,2021-07-15T00:01:48.000005Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13425,Angola,Portugal,6,Africa,Europe,2021-02-19T00:01:48.000002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09582,Angola,Nigeria,6,Africa,Africa,2021-02-04T23:22:59.520007Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27123,Angola,Philippines,6,Africa,Asia,2021-04-09T23:58:29.280002Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.2,Angola,Portugal,6,Africa,Europe,2021-03-15T00:00:00.000001Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09589,Angola,Niger,6,Africa,Africa,2021-02-04T23:59:47.040002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08493,Angola,Benin,6,Africa,Africa,2021-01-31T23:59:12.480007Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36165,Angola,Democratic Republic of the Congo,6,Africa,,2021-05-13T00:03:14.400002Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38357,Angola,Djibouti,6,Africa,Africa,2021-05-21T00:04:23.520006Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37809,Angola,Israel,6,Africa,Europe,2021-05-19T00:04:06.240005Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.40001,Angola,South Sudan,6,Africa,,2021-05-27T00:05:15.360002Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41645,Angola,Senegal,6,Africa,Africa,2021-06-02T00:06:07.200005Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24658,Angola,Mali,6,Africa,Africa,2021-04-01T00:02:26.880007Z,2021-04-01,Southern Africa,Western Africa,2021-03-21
+2021.4152,Angola,Guinea,6,Africa,Africa,2021-06-01T13:09:07.200004Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09402,Angola,Mali,6,Africa,Africa,2021-02-04T07:36:54.720007Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90656,Angola,Benin,6,Africa,Africa,2020-11-27T19:13:22.944004Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.2685,Angola,Australia,6,Africa,Australia,2021-04-09T00:03:36.000004Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30137,Angola,South Africa,6,Africa,Africa,2021-04-21T00:00:04.320004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31509,Angola,South Africa,6,Africa,Africa,2021-04-26T00:11:18.240002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24112,Angola,South Africa,6,Africa,Africa,2021-03-30T00:12:40.320004Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26302,Angola,South Africa,6,Africa,Africa,2021-04-07T00:03:18.720003Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43563,Angola,Namibia,6,Africa,Africa,2021-06-09T00:07:07.680006Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69127,Angola,Mozambique,6,Africa,Africa,2020-09-10T00:06:56.448001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27399,Angola,South Africa,6,Africa,Africa,2021-04-11T00:09:08.640004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.1644,Angola,South Africa,6,Africa,Africa,2021-03-02T00:08:38.400004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71586,Angola,South Africa,6,Africa,Africa,2020-09-19T00:06:51.264001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82242,Angola,South Africa,6,Africa,Africa,2020-10-28T00:08:14.208006Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85246,Angola,South Africa,6,Africa,Africa,2020-11-08T00:00:31.104002Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90165,Angola,South Africa,6,Africa,Africa,2020-11-26T00:05:36.960008Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84974,Angola,South Africa,6,Africa,Africa,2020-11-07T00:06:58.176003Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96176,Angola,South Africa,6,Africa,Africa,2020-12-18T00:05:59.424005Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14248,Angola,South Africa,6,Africa,Africa,2021-02-22T00:07:29.280006Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.1507,Angola,Zimbabwe,6,Africa,Africa,2021-02-25T00:07:55.200005Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69416,Angola,South Africa,6,Africa,Africa,2020-09-11T01:30:05.184008Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19178,Angola,South Africa,6,Africa,Africa,2021-03-11T23:59:34.080003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22465,Angola,South Africa,6,Africa,Africa,2021-03-23T23:56:02.400003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12604,Angola,Namibia,6,Africa,Africa,2021-02-16T00:06:37.440003Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30411,Angola,Canada,6,Africa,North America,2021-04-22T00:00:12.960001Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17262,Angola,South Africa,6,Africa,Africa,2021-03-05T00:09:04.320002Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.9563,Angola,Namibia,6,Africa,Africa,2020-12-16T00:08:21.120002Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43562,Angola,Namibia,6,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43288,Angola,Namibia,6,Africa,Africa,2021-06-08T00:01:43.680002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47945,Angola,Portugal,6,Africa,Europe,2021-06-24T23:58:55.200001Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34248,Angola,Portugal,6,Africa,Europe,2021-05-06T00:07:29.280001Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16439,Angola,South Africa,6,Africa,Africa,2021-03-02T00:03:23.040004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36321,Angola,Burundi,6,Africa,Africa,2021-05-13T13:43:10.560007Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16165,Angola,Somalia,6,Africa,Africa,2021-03-01T00:03:14.400007Z,2021-03-01,Southern Africa,Eastern Africa,2021-02-21
+2021.03054,Angola,Namibia,6,Africa,Africa,2021-01-12T03:31:49.440006Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01917,Angola,Zimbabwe,6,Africa,Africa,2021-01-07T23:55:45.120001Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40546,Angola,South Africa,6,Africa,Africa,2021-05-28T23:49:46.560005Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.51231,Angola,Rwanda,6,Africa,Africa,2021-07-06T23:50:08.160002Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.28217,Angola,Oman,6,Africa,Asia,2021-04-13T23:48:33.120006Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.3781,Angola,Botswana,6,Africa,Africa,2021-05-19T00:09:21.600004Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.2274,Angola,South Africa,6,Africa,Africa,2021-03-25T00:01:26.400007Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95763,Angola,Portugal,6,Africa,Europe,2020-12-16T11:49:18.912004Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93795,Angola,Portugal,6,Africa,Europe,2020-12-09T06:57:10.080007Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18904,Angola,France,6,Africa,Europe,2021-03-10T23:59:25.440006Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01644,Angola,Zambia,6,Africa,Africa,2021-01-07T00:00:51.840003Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68034,Angola,United Kingdom,6,Africa,Europe,2020-09-06T00:06:23.616004Z,2020-09-01,Southern Africa,Western Europe,2020-09-06
+2020.58311,Angola,Namibia,6,Africa,Africa,2020-08-01T10:02:17.664001Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.49208,Angola,Namibia,6,Africa,Africa,2020-06-29T02:25:50.592007Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75957,Angola,Japan,6,Africa,Asia,2020-10-05T00:03:46.368005Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94066,Angola,Portugal,6,Africa,Europe,2020-12-10T06:45:26.784007Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.77862,Angola,Switzerland,6,Africa,Europe,2020-10-11T23:23:53.088001Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92963,Angola,Portugal,6,Africa,Europe,2020-12-06T05:52:11.712003Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84338,Angola,Portugal,6,Africa,Europe,2020-11-04T16:14:59.712001Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74877,Angola,Belgium,6,Africa,Europe,2020-10-01T01:11:44.448005Z,2020-10-01,Southern Africa,Western Europe,2020-09-20
+2020.95113,Angola,Portugal,6,Africa,Europe,2020-12-14T02:43:33.312005Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76333,Angola,France,6,Africa,Europe,2020-10-06T09:05:26.592007Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06301,Angola,United Kingdom,6,Africa,Europe,2021-01-23T23:58:03.360003Z,2021-01-01,Southern Africa,Western Europe,2021-01-10
+2020.78961,Angola,France,6,Africa,Europe,2020-10-15T23:56:03.264001Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77049,Angola,Canada,6,Africa,North America,2020-10-08T23:59:02.976003Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13425,Angola,France,6,Africa,Europe,2021-02-19T00:01:48.000002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80329,Angola,United Kingdom,6,Africa,Europe,2020-10-21T00:05:57.696002Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40822,Angola,Democratic Republic of the Congo,6,Africa,,2021-05-30T00:00:25.920001Z,2021-05-01,Southern Africa,,2021-05-30
+2021.0411,Angola,Namibia,6,Africa,Africa,2021-01-16T00:02:09.600004Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96964,Angola,Namibia,6,Africa,Africa,2020-12-20T21:19:03.936001Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.84973,Angola,Jordan,6,Africa,Asia,2020-11-07T00:01:41.952004Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95902,Angola,Republic of the Congo,6,Africa,,2020-12-17T00:01:54.048007Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85449,Angola,Canada,6,Africa,North America,2020-11-08T17:50:24.576005Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78313,Angola,Portugal,6,Africa,Europe,2020-10-13T15:00:50.112001Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.69173,Angola,Serbia,6,Africa,Europe,2020-09-10T04:09:22.752007Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.06307,Angola,Democratic Republic of the Congo,6,Africa,,2021-01-24T00:29:35.520005Z,2021-01-01,Southern Africa,,2021-01-24
+2020.75579,Angola,Republic of the Congo,6,Africa,,2020-10-03T14:51:33.696005Z,2020-10-01,Southern Africa,,2020-09-20
+2021.12055,Angola,Gabon,6,Africa,Africa,2021-02-14T00:01:04.800003Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20548,Angola,Tunisia,6,Africa,Africa,2021-03-17T00:00:17.280003Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.3822,Angola,Myanmar,6,Africa,Asia,2021-05-20T12:04:19.200007Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25754,Angola,New Zealand,6,Africa,Australia,2021-04-05T00:03:01.440002Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38632,Angola,South Sudan,6,Africa,,2021-05-22T00:09:47.520002Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85481,Angola,Democratic Republic of the Congo,6,Africa,,2021-11-09T00:08:08.160001Z,2021-11-01,Southern Africa,,2021-10-31
+2021.33974,Angola,Barbados,6,Africa,South America,2021-05-05T00:07:20.640004Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.86029,Angola,Morocco,6,Africa,Africa,2021-11-11T00:08:25.440002Z,2021-11-01,Southern Africa,Northern Africa,2021-10-31
+2021.47399,Angola,Finland,6,Africa,Europe,2021-06-23T00:09:08.640006Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.32878,Angola,India,6,Africa,Asia,2021-05-01T00:06:46.080002Z,2021-05-01,Southern Africa,India+,2021-04-18
+2021.9781,Angola,Indonesia,6,Africa,Asia,2021-12-24T00:09:21.600001Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.27668,Angola,Portugal,6,Africa,Europe,2021-04-11T23:43:00.480005Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50412,Angola,Barbados,6,Africa,South America,2021-07-04T00:05:28.320002Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.29144,Angola,Zimbabwe,6,Africa,Africa,2021-04-17T09:00:51.840006Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53696,Angola,USA,6,Africa,,2021-07-15T23:46:10.560004Z,2021-07-01,Southern Africa,,2021-07-11
+2021.56126,Angola,Myanmar,6,Africa,Asia,2021-07-24T20:38:15.360006Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50961,Angola,Zambia,6,Africa,Africa,2021-07-06T00:11:00.960002Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70138,Angola,Portugal,6,Africa,Europe,2021-09-14T00:05:19.680006Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69316,Angola,Japan,6,Africa,Asia,2021-09-11T00:04:53.760001Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.6822,Angola,Portugal,6,Africa,Europe,2021-09-07T00:04:19.200006Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32771,Angola,Namibia,6,Africa,Africa,2021-04-30T14:44:22.560001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67126,Angola,South Africa,6,Africa,Africa,2021-09-03T00:14:15.360002Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.62195,Angola,Namibia,6,Africa,Africa,2021-08-16T00:16:55.200006Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50687,Angola,Zambia,6,Africa,Africa,2021-07-05T00:10:52.320005Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.64934,Angola,South Africa,6,Africa,Africa,2021-08-26T00:13:06.240005Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47518,Angola,Namibia,6,Africa,Africa,2021-06-23T10:34:36.480004Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53701,Angola,Namibia,6,Africa,Africa,2021-07-16T00:12:27.360008Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.80002,Angola,Portugal,6,Africa,Europe,2021-10-20T00:10:30.720004Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52675,Angola,South Africa,6,Africa,Africa,2021-07-12T06:19:48.000007Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60826,Angola,South Africa,6,Africa,Africa,2021-08-11T00:21:27.360006Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.69867,Angola,South Africa,6,Africa,Africa,2021-09-13T00:20:57.120007Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55525,Angola,Namibia,6,Africa,Africa,2021-07-22T15:59:24.000004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75344,Angola,South Africa,6,Africa,Africa,2021-10-03T00:08:03.840006Z,2021-10-01,Southern Africa,Southern Africa,2021-10-03
+2021.52878,Angola,Namibia,6,Africa,Africa,2021-07-13T00:06:46.080003Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68769,Angola,South Africa,6,Africa,Africa,2021-09-09T00:09:51.840006Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36962,Angola,Namibia,6,Africa,Africa,2021-05-15T21:52:16.320005Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.85481,Angola,Democratic Republic of the Congo,6,Africa,,2021-11-09T00:08:08.160001Z,2021-11-01,Southern Africa,,2021-10-31
+2021.6419,Angola,Portugal,6,Africa,Europe,2021-08-23T07:02:38.400002Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2021.18353,Angola,Senegal,7,Africa,Africa,2021-03-08T23:43:22.080001Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18353,Angola,South Africa,7,Africa,Africa,2021-03-08T23:43:22.080001Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26301,Angola,Portugal,7,Africa,Europe,2021-04-06T23:58:03.360004Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09585,Angola,Benin,7,Africa,Africa,2021-02-04T23:38:45.599998Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05291,Angola,Kenya,7,Africa,Africa,2021-01-20T07:29:29.760004Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.954,Angola,USA,7,Africa,,2020-12-15T03:56:09.599998Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00417,Angola,Nigeria,7,Africa,Africa,2021-01-02T12:31:45.119998Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25864,Angola,Sao Tome and Principe,7,Africa,Africa,2021-04-05T09:41:11.040Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26299,Angola,Portugal,7,Africa,Europe,2021-04-06T23:47:32.639998Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35065,Angola,Portugal,7,Africa,Europe,2021-05-08T23:41:38.400003Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.59997,Angola,Panama,7,Africa,South America,2021-08-07T23:44:13.920Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.32326,Angola,Poland,7,Africa,Europe,2021-04-28T23:45:27.360004Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29859,Angola,Bulgaria,7,Africa,Europe,2021-04-19T23:38:54.240003Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23558,Angola,Ireland,7,Africa,Europe,2021-03-27T23:40:50.880001Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16161,Angola,Greece,7,Africa,Europe,2021-02-28T23:42:12.960003Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.13043,Angola,USA,7,Africa,,2021-02-17T14:34:00.479998Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12598,Angola,Denmark,7,Africa,Europe,2021-02-15T23:35:05.280001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14243,Angola,Bulgaria,7,Africa,Europe,2021-02-21T23:41:12.480003Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27119,Angola,Portugal,7,Africa,Europe,2021-04-09T23:37:27.839998Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20602,Angola,Portugal,7,Africa,Europe,2021-03-17T04:44:06.720003Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34517,Angola,Portugal,7,Africa,Europe,2021-05-06T23:41:21.120002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12631,Angola,Portugal,7,Africa,Europe,2021-02-16T02:28:32.160003Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18347,Angola,Mauritius,7,Africa,Africa,2021-03-08T23:11:49.919998Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37532,Angola,Liberia,7,Africa,Africa,2021-05-17T23:48:11.520003Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.0063,Angola,Antigua and Barbuda,7,Africa,,2021-01-03T07:11:16.800Z,2021-01-01,Southern Africa,,2020-12-27
+2021.1499,Angola,Guinea,7,Africa,Africa,2021-02-24T17:07:26.400004Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39176,Angola,Gambia,7,Africa,Africa,2021-05-23T23:49:03.359999Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38354,Angola,Benin,7,Africa,Africa,2021-05-20T23:48:37.440001Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34244,Angola,Bangladesh,7,Africa,Asia,2021-05-05T23:46:27.840004Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06847,Angola,Togo,7,Africa,Africa,2021-01-25T23:47:49.919998Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.4356,Angola,Gabon,7,Africa,Africa,2021-06-08T23:51:21.600001Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53423,Angola,Sao Tome and Principe,7,Africa,Africa,2021-07-14T23:51:17.279999Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13423,Angola,Portugal,7,Africa,Europe,2021-02-18T23:51:17.280004Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09501,Angola,Nigeria,7,Africa,Africa,2021-02-04T16:17:15.360Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27122,Angola,Philippines,7,Africa,Asia,2021-04-09T23:53:13.920003Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.44109,Angola,South Africa,7,Africa,Africa,2021-06-10T23:56:54.240001Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.2,Angola,Portugal,7,Africa,Europe,2021-03-15T00:00:00.000001Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09589,Angola,Niger,7,Africa,Africa,2021-02-04T23:59:47.040002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08493,Angola,Benin,7,Africa,Africa,2021-01-31T23:59:12.480Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36164,Angola,Democratic Republic of the Congo,7,Africa,,2021-05-12T23:57:59.040003Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38355,Angola,Djibouti,7,Africa,Africa,2021-05-20T23:53:52.800Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37807,Angola,Israel,7,Africa,Europe,2021-05-18T23:53:35.519999Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.39999,Angola,South Sudan,7,Africa,,2021-05-26T23:54:44.640004Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41643,Angola,Senegal,7,Africa,Africa,2021-06-01T23:55:36.480Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24656,Angola,Mali,7,Africa,Africa,2021-03-31T23:51:56.160002Z,2021-03-01,Southern Africa,Western Africa,2021-03-21
+2021.415,Angola,Guinea,7,Africa,Africa,2021-06-01T11:23:59.999999Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09291,Angola,Mali,7,Africa,Africa,2021-02-03T21:53:29.760002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90365,Angola,Benin,7,Africa,Africa,2020-11-26T17:39:41.759999Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.26849,Angola,Australia,7,Africa,Australia,2021-04-08T23:58:20.639998Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30137,Angola,South Africa,7,Africa,Africa,2021-04-21T00:00:04.320004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31505,Angola,South Africa,7,Africa,Africa,2021-04-25T23:50:16.799998Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24109,Angola,South Africa,7,Africa,Africa,2021-03-29T23:56:54.240Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.263,Angola,South Africa,7,Africa,Africa,2021-04-06T23:52:48.000005Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43564,Angola,Namibia,7,Africa,Africa,2021-06-09T00:12:23.040005Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69128,Angola,Mozambique,7,Africa,Africa,2020-09-10T00:12:12.672Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27399,Angola,South Africa,7,Africa,Africa,2021-04-11T00:09:08.640004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16439,Angola,South Africa,7,Africa,Africa,2021-03-02T00:03:23.040004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71586,Angola,South Africa,7,Africa,Africa,2020-09-19T00:06:51.264001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82242,Angola,South Africa,7,Africa,Africa,2020-10-28T00:08:14.207999Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85247,Angola,South Africa,7,Africa,Africa,2020-11-08T00:05:47.328001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90166,Angola,South Africa,7,Africa,Africa,2020-11-26T00:10:53.184Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84974,Angola,South Africa,7,Africa,Africa,2020-11-07T00:06:58.176003Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96177,Angola,South Africa,7,Africa,Africa,2020-12-18T00:11:15.648004Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14246,Angola,South Africa,7,Africa,Africa,2021-02-21T23:56:58.560001Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15069,Angola,Zimbabwe,7,Africa,Africa,2021-02-25T00:02:39.839998Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69407,Angola,South Africa,7,Africa,Africa,2020-09-11T00:42:39.168Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19178,Angola,South Africa,7,Africa,Africa,2021-03-11T23:59:34.080003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22465,Angola,South Africa,7,Africa,Africa,2021-03-23T23:56:02.400003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12603,Angola,Namibia,7,Africa,Africa,2021-02-16T00:01:22.080004Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.3041,Angola,Canada,7,Africa,North America,2021-04-21T23:54:57.600002Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17259,Angola,South Africa,7,Africa,Africa,2021-03-04T23:53:18.240004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95631,Angola,Namibia,7,Africa,Africa,2020-12-16T00:13:37.344001Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43564,Angola,Namibia,7,Africa,Africa,2021-06-09T00:12:23.040005Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.4329,Angola,Namibia,7,Africa,Africa,2021-06-08T00:12:14.400001Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47946,Angola,Portugal,7,Africa,Europe,2021-06-25T00:04:10.560001Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34248,Angola,Portugal,7,Africa,Europe,2021-05-06T00:07:29.280001Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.1644,Angola,South Africa,7,Africa,Africa,2021-03-02T00:08:38.400004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36294,Angola,Burundi,7,Africa,Africa,2021-05-13T11:21:15.839999Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16165,Angola,Somalia,7,Africa,Africa,2021-03-01T00:03:14.400Z,2021-03-01,Southern Africa,Eastern Africa,2021-02-21
+2021.02971,Angola,Namibia,7,Africa,Africa,2021-01-11T20:15:34.560001Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.0192,Angola,Zimbabwe,7,Africa,Africa,2021-01-08T00:11:31.199999Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.4055,Angola,South Africa,7,Africa,Africa,2021-05-29T00:10:48.000002Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.51234,Angola,Rwanda,7,Africa,Africa,2021-07-07T00:05:54.240Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.2822,Angola,Oman,7,Africa,Asia,2021-04-14T00:04:19.200003Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.3781,Angola,Botswana,7,Africa,Africa,2021-05-19T00:09:21.600004Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.22741,Angola,South Africa,7,Africa,Africa,2021-03-25T00:06:41.759999Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95621,Angola,Portugal,7,Africa,Europe,2020-12-15T23:20:55.104002Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93736,Angola,Portugal,7,Africa,Europe,2020-12-09T01:46:12.864004Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18907,Angola,France,7,Africa,Europe,2021-03-11T00:15:11.520004Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01644,Angola,Zambia,7,Africa,Africa,2021-01-07T00:00:51.840003Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68034,Angola,United Kingdom,7,Africa,Europe,2020-09-06T00:06:23.616004Z,2020-09-01,Southern Africa,Western Europe,2020-09-06
+2020.58276,Angola,Namibia,7,Africa,Africa,2020-08-01T06:57:49.824Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.49069,Angola,Namibia,7,Africa,Africa,2020-06-28T14:13:15.456003Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75957,Angola,Japan,7,Africa,Asia,2020-10-05T00:03:46.367998Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94033,Angola,Portugal,7,Africa,Europe,2020-12-10T03:51:31.392004Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.77648,Angola,Switzerland,7,Africa,Europe,2020-10-11T04:36:01.152Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92918,Angola,Portugal,7,Africa,Europe,2020-12-06T01:55:01.632003Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84279,Angola,Portugal,7,Africa,Europe,2020-11-04T11:04:02.496005Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74789,Angola,Belgium,7,Africa,Europe,2020-09-30T17:27:56.736003Z,2020-09-01,Southern Africa,Western Europe,2020-09-20
+2020.95046,Angola,Portugal,7,Africa,Europe,2020-12-13T20:50:26.304001Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76245,Angola,France,7,Africa,Europe,2020-10-06T01:21:38.879998Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06302,Angola,United Kingdom,7,Africa,Europe,2021-01-24T00:03:18.720002Z,2021-01-01,Southern Africa,Western Europe,2021-01-24
+2020.78963,Angola,France,7,Africa,Europe,2020-10-16T00:06:35.712Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.7705,Angola,Canada,7,Africa,North America,2020-10-09T00:04:19.200003Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13425,Angola,France,7,Africa,Europe,2021-02-19T00:01:48.000002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80329,Angola,United Kingdom,7,Africa,Europe,2020-10-21T00:05:57.696002Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40822,Angola,Democratic Republic of the Congo,7,Africa,,2021-05-30T00:00:25.920001Z,2021-05-01,Southern Africa,,2021-05-30
+2021.0411,Angola,Namibia,7,Africa,Africa,2021-01-16T00:02:09.600004Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.9687,Angola,Namibia,7,Africa,Africa,2020-12-20T13:03:38.880004Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.84974,Angola,Jordan,7,Africa,Asia,2020-11-07T00:06:58.176003Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95903,Angola,Republic of the Congo,7,Africa,,2020-12-17T00:07:10.272Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85304,Angola,Canada,7,Africa,North America,2020-11-08T05:06:12.095999Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78118,Angola,Portugal,7,Africa,Europe,2020-10-12T21:53:06.431998Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.69,Angola,Serbia,7,Africa,Europe,2020-09-09T12:57:36.000002Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.06203,Angola,Democratic Republic of the Congo,7,Africa,,2021-01-23T15:22:58.080002Z,2021-01-01,Southern Africa,,2021-01-10
+2020.75222,Angola,Republic of the Congo,7,Africa,,2020-10-02T07:30:01.728003Z,2020-10-01,Southern Africa,,2020-09-20
+2021.12055,Angola,Gabon,7,Africa,Africa,2021-02-14T00:01:04.800003Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20549,Angola,Tunisia,7,Africa,Africa,2021-03-17T00:05:32.640002Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.382,Angola,Myanmar,7,Africa,Asia,2021-05-20T10:19:12.000002Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25751,Angola,New Zealand,7,Africa,Australia,2021-04-04T23:47:15.360004Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38624,Angola,South Sudan,7,Africa,,2021-05-21T23:27:44.640001Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85474,Angola,Democratic Republic of the Congo,7,Africa,,2021-11-08T23:31:20.640Z,2021-11-01,Southern Africa,,2021-10-31
+2021.33969,Angola,Barbados,7,Africa,South America,2021-05-04T23:41:03.840001Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.86023,Angola,Morocco,7,Africa,Africa,2021-11-10T23:36:53.280Z,2021-11-01,Southern Africa,Northern Africa,2021-10-31
+2021.47393,Angola,Finland,7,Africa,Europe,2021-06-22T23:37:36.480003Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.32872,Angola,India,7,Africa,Asia,2021-04-30T23:35:13.919999Z,2021-04-01,Southern Africa,India+,2021-04-18
+2021.97804,Angola,Indonesia,7,Africa,Asia,2021-12-23T23:37:49.439999Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.2764,Angola,Portugal,7,Africa,Europe,2021-04-11T21:15:50.399999Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50407,Angola,Barbados,7,Africa,South America,2021-07-03T23:39:11.519999Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.28922,Angola,Zimbabwe,7,Africa,Africa,2021-04-16T13:34:01.920004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.5359,Angola,USA,7,Africa,,2021-07-15T14:29:02.400003Z,2021-07-01,Southern Africa,,2021-07-11
+2021.56036,Angola,Myanmar,7,Africa,Asia,2021-07-24T12:45:12.959998Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50954,Angola,Zambia,7,Africa,Africa,2021-07-05T23:34:13.440001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70132,Angola,Portugal,7,Africa,Europe,2021-09-13T23:33:47.520004Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.6931,Angola,Japan,7,Africa,Asia,2021-09-10T23:33:21.599999Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68215,Angola,Portugal,7,Africa,Europe,2021-09-06T23:38:02.400003Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32736,Angola,Namibia,7,Africa,Africa,2021-04-30T11:40:24.960Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67121,Angola,South Africa,7,Africa,Africa,2021-09-02T23:47:58.559999Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.6219,Angola,Namibia,7,Africa,Africa,2021-08-15T23:50:38.400003Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50683,Angola,Zambia,7,Africa,Africa,2021-07-04T23:49:50.880001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.6493,Angola,South Africa,7,Africa,Africa,2021-08-25T23:52:04.800001Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47454,Angola,Namibia,7,Africa,Africa,2021-06-23T04:58:13.439998Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53696,Angola,Namibia,7,Africa,Africa,2021-07-15T23:46:10.560004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.79997,Angola,Portugal,7,Africa,Europe,2021-10-19T23:44:13.920001Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52551,Angola,South Africa,7,Africa,Africa,2021-07-11T19:28:03.359998Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60819,Angola,South Africa,7,Africa,Africa,2021-08-10T23:44:39.840005Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.6986,Angola,South Africa,7,Africa,Africa,2021-09-12T23:44:09.599998Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55362,Angola,Namibia,7,Africa,Africa,2021-07-22T01:42:40.320004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75339,Angola,South Africa,7,Africa,Africa,2021-10-02T23:41:47.040003Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52874,Angola,Namibia,7,Africa,Africa,2021-07-12T23:45:44.639999Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68763,Angola,South Africa,7,Africa,Africa,2021-09-08T23:38:19.680004Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36658,Angola,Namibia,7,Africa,Africa,2021-05-14T19:14:26.880003Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.85475,Angola,Democratic Republic of the Congo,7,Africa,,2021-11-08T23:36:35.999999Z,2021-11-01,Southern Africa,,2021-10-31
+2021.6417,Angola,Portugal,7,Africa,Europe,2021-08-23T05:17:31.200004Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2021.18355,Angola,Senegal,8,Africa,Africa,2021-03-08T23:53:52.799999Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18354,Angola,South Africa,8,Africa,Africa,2021-03-08T23:48:37.440Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26298,Angola,Portugal,8,Africa,Europe,2021-04-06T23:42:17.279999Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09587,Angola,Benin,8,Africa,Africa,2021-02-04T23:49:16.319996Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05221,Angola,Kenya,8,Africa,Africa,2021-01-20T01:21:34.560002Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95289,Angola,USA,8,Africa,,2020-12-14T18:11:08.736001Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00197,Angola,Nigeria,8,Africa,Africa,2021-01-01T17:15:25.920001Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.2584,Angola,Sao Tome and Principe,8,Africa,Africa,2021-04-05T07:35:02.399998Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.263,Angola,Portugal,8,Africa,Europe,2021-04-06T23:52:47.999997Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35067,Angola,Portugal,8,Africa,Europe,2021-05-08T23:52:09.120001Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.59999,Angola,Panama,8,Africa,South America,2021-08-07T23:54:44.639998Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.32327,Angola,Poland,8,Africa,Europe,2021-04-28T23:50:42.720003Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29861,Angola,Bulgaria,8,Africa,Europe,2021-04-19T23:49:24.960002Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.2356,Angola,Ireland,8,Africa,Europe,2021-03-27T23:51:21.599999Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16163,Angola,Greece,8,Africa,Europe,2021-02-28T23:52:43.680002Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.12987,Angola,USA,8,Africa,,2021-02-17T09:39:40.319999Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12601,Angola,Denmark,8,Africa,Europe,2021-02-15T23:50:51.359998Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14244,Angola,Bulgaria,8,Africa,Europe,2021-02-21T23:46:27.840003Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27121,Angola,Portugal,8,Africa,Europe,2021-04-09T23:47:58.559996Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20576,Angola,Portugal,8,Africa,Europe,2021-03-17T02:27:27.360002Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34519,Angola,Portugal,8,Africa,Europe,2021-05-06T23:51:51.840Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12634,Angola,Portugal,8,Africa,Europe,2021-02-16T02:44:18.240001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18331,Angola,Mauritius,8,Africa,Africa,2021-03-08T21:47:44.159997Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37537,Angola,Liberia,8,Africa,Africa,2021-05-18T00:14:28.319999Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.0064,Angola,Antigua and Barbuda,8,Africa,,2021-01-03T08:03:50.400Z,2021-01-01,Southern Africa,,2020-12-27
+2021.14993,Angola,Guinea,8,Africa,Africa,2021-02-24T17:23:12.480001Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39181,Angola,Gambia,8,Africa,Africa,2021-05-24T00:15:20.160002Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38359,Angola,Benin,8,Africa,Africa,2021-05-21T00:14:54.239997Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34249,Angola,Bangladesh,8,Africa,Asia,2021-05-06T00:12:44.640Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06852,Angola,Togo,8,Africa,Africa,2021-01-26T00:14:06.720001Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43564,Angola,Gabon,8,Africa,Africa,2021-06-09T00:12:23.039998Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53427,Angola,Sao Tome and Principe,8,Africa,Africa,2021-07-15T00:12:18.719996Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13426,Angola,Portugal,8,Africa,Europe,2021-02-19T00:07:03.360001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09148,Angola,Nigeria,8,Africa,Africa,2021-02-03T09:21:53.280001Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27126,Angola,Philippines,8,Africa,Asia,2021-04-10T00:14:15.359999Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.4411,Angola,South Africa,8,Africa,Africa,2021-06-11T00:02:09.600Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.2,Angola,Portugal,8,Africa,Europe,2021-03-15T00:00:00.000001Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09588,Angola,Niger,8,Africa,Africa,2021-02-04T23:54:31.680002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08492,Angola,Benin,8,Africa,Africa,2021-01-31T23:53:57.120Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36164,Angola,Democratic Republic of the Congo,8,Africa,,2021-05-12T23:57:59.040003Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38356,Angola,Djibouti,8,Africa,Africa,2021-05-20T23:59:08.160Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37808,Angola,Israel,8,Africa,Europe,2021-05-18T23:58:50.879998Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.4,Angola,South Sudan,8,Africa,,2021-05-27T00:00:00.000003Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41643,Angola,Senegal,8,Africa,Africa,2021-06-01T23:55:36.480Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24657,Angola,Mali,8,Africa,Africa,2021-03-31T23:57:11.520001Z,2021-03-01,Southern Africa,Western Africa,2021-03-21
+2021.41493,Angola,Guinea,8,Africa,Africa,2021-06-01T10:47:12.479997Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09245,Angola,Mali,8,Africa,Africa,2021-02-03T17:51:43.199996Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90238,Angola,Benin,8,Africa,Africa,2020-11-26T06:30:21.312Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.2685,Angola,Australia,8,Africa,Australia,2021-04-09T00:03:35.999997Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.05918,Angola,Democratic Republic of the Congo,8,Africa,,2021-01-22T14:25:00.479999Z,2021-01-01,Southern Africa,,2021-01-10
+2020.74872,Angola,Republic of the Congo,8,Africa,,2020-10-01T00:45:23.328001Z,2020-10-01,Southern Africa,,2020-09-20
+2021.22737,Angola,South Africa,8,Africa,Africa,2021-03-24T23:45:40.320002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95553,Angola,Portugal,8,Africa,Europe,2020-12-15T17:22:31.871999Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93748,Angola,Portugal,8,Africa,Europe,2020-12-09T02:49:27.552001Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18899,Angola,France,8,Africa,Europe,2021-03-10T23:33:08.639996Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01641,Angola,Zambia,8,Africa,Africa,2021-01-06T23:45:05.759999Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68031,Angola,United Kingdom,8,Africa,Europe,2020-09-05T23:50:34.943999Z,2020-09-01,Southern Africa,Western Europe,2020-08-23
+2020.58257,Angola,Namibia,8,Africa,Africa,2020-08-01T05:17:41.568001Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.48677,Angola,Namibia,8,Africa,Africa,2020-06-27T03:47:15.647999Z,2020-06-01,Southern Africa,Southern Africa,2020-06-14
+2020.75953,Angola,Japan,8,Africa,Asia,2020-10-04T23:42:41.472001Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94015,Angola,Portugal,8,Africa,Europe,2020-12-10T02:16:39.359997Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.77565,Angola,Switzerland,8,Africa,Europe,2020-10-10T21:18:34.560001Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92895,Angola,Portugal,8,Africa,Europe,2020-12-05T23:53:48.480Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.8421,Angola,Portugal,8,Africa,Europe,2020-11-04T05:00:23.040002Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74647,Angola,Belgium,8,Africa,Europe,2020-09-30T04:59:32.928001Z,2020-09-01,Southern Africa,Western Europe,2020-09-20
+2020.95007,Angola,Portugal,8,Africa,Europe,2020-12-13T17:24:53.568003Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.7623,Angola,France,8,Africa,Europe,2020-10-06T00:02:35.520003Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06298,Angola,United Kingdom,8,Africa,Europe,2021-01-23T23:42:17.279998Z,2021-01-01,Southern Africa,Western Europe,2021-01-10
+2020.78959,Angola,France,8,Africa,Europe,2020-10-15T23:45:30.816003Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77047,Angola,Canada,8,Africa,North America,2020-10-08T23:48:30.527998Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13422,Angola,France,8,Africa,Europe,2021-02-18T23:46:01.919997Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80325,Angola,United Kingdom,8,Africa,Europe,2020-10-20T23:44:52.799998Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40819,Angola,Democratic Republic of the Congo,8,Africa,,2021-05-29T23:44:39.839996Z,2021-05-01,Southern Africa,,2021-05-16
+2021.04107,Angola,Namibia,8,Africa,Africa,2021-01-15T23:46:23.520Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96833,Angola,Namibia,8,Africa,Africa,2020-12-20T09:48:38.591998Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.8497,Angola,Jordan,8,Africa,Asia,2020-11-06T23:45:53.279999Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95899,Angola,Republic of the Congo,8,Africa,,2020-12-16T23:46:05.376003Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85042,Angola,Canada,8,Africa,North America,2020-11-07T06:05:21.408Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78103,Angola,Portugal,8,Africa,Europe,2020-10-12T20:34:03.071996Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.68952,Angola,Serbia,8,Africa,Europe,2020-09-09T08:44:37.247997Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.12054,Angola,Gabon,8,Africa,Africa,2021-02-13T23:55:49.439996Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20547,Angola,Tunisia,8,Africa,Africa,2021-03-16T23:55:01.919996Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.30137,Angola,South Africa,8,Africa,Africa,2021-04-21T00:00:04.319997Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31506,Angola,South Africa,8,Africa,Africa,2021-04-25T23:55:32.159997Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24108,Angola,South Africa,8,Africa,Africa,2021-03-29T23:51:38.880Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26298,Angola,South Africa,8,Africa,Africa,2021-04-06T23:42:17.279999Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43561,Angola,Namibia,8,Africa,Africa,2021-06-08T23:56:36.960Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69125,Angola,Mozambique,8,Africa,Africa,2020-09-09T23:56:24.000003Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27397,Angola,South Africa,8,Africa,Africa,2021-04-10T23:58:37.919999Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16437,Angola,South Africa,8,Africa,Africa,2021-03-01T23:52:52.319999Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71584,Angola,South Africa,8,Africa,Africa,2020-09-18T23:56:18.816002Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.8224,Angola,South Africa,8,Africa,Africa,2020-10-27T23:57:41.760Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85245,Angola,South Africa,8,Africa,Africa,2020-11-07T23:55:14.880003Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90164,Angola,South Africa,8,Africa,Africa,2020-11-26T00:00:20.736001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84972,Angola,South Africa,8,Africa,Africa,2020-11-06T23:56:25.727998Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96175,Angola,South Africa,8,Africa,Africa,2020-12-18T00:00:43.199998Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14245,Angola,South Africa,8,Africa,Africa,2021-02-21T23:51:43.200002Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15067,Angola,Zimbabwe,8,Africa,Africa,2021-02-24T23:52:09.120Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69401,Angola,South Africa,8,Africa,Africa,2020-09-11T00:11:01.823998Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19177,Angola,South Africa,8,Africa,Africa,2021-03-11T23:54:18.719997Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22465,Angola,South Africa,8,Africa,Africa,2021-03-23T23:56:02.399996Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12602,Angola,Namibia,8,Africa,Africa,2021-02-15T23:56:06.719998Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30411,Angola,Canada,8,Africa,North America,2021-04-22T00:00:12.960001Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17259,Angola,South Africa,8,Africa,Africa,2021-03-04T23:53:18.239997Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95628,Angola,Namibia,8,Africa,Africa,2020-12-15T23:57:48.671996Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43561,Angola,Namibia,8,Africa,Africa,2021-06-08T23:56:36.960Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43287,Angola,Namibia,8,Africa,Africa,2021-06-07T23:56:28.320003Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47945,Angola,Portugal,8,Africa,Europe,2021-06-24T23:58:55.200001Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34246,Angola,Portugal,8,Africa,Europe,2021-05-05T23:56:58.560002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16438,Angola,South Africa,8,Africa,Africa,2021-03-01T23:58:07.679998Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.3628,Angola,Burundi,8,Africa,Africa,2021-05-13T10:07:40.799996Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16162,Angola,Somalia,8,Africa,Africa,2021-02-28T23:47:28.320003Z,2021-02-01,Southern Africa,Eastern Africa,2021-02-21
+2021.02931,Angola,Namibia,8,Africa,Africa,2021-01-11T16:45:20.159997Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01916,Angola,Zimbabwe,8,Africa,Africa,2021-01-07T23:50:29.760002Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40544,Angola,South Africa,8,Africa,Africa,2021-05-28T23:39:15.840Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.5123,Angola,Rwanda,8,Africa,Africa,2021-07-06T23:44:52.800003Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.28216,Angola,Oman,8,Africa,Asia,2021-04-13T23:43:17.759999Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.37807,Angola,Botswana,8,Africa,Africa,2021-05-18T23:53:35.519999Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.38188,Angola,Myanmar,8,Africa,Asia,2021-05-20T09:16:07.679997Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25752,Angola,New Zealand,8,Africa,Australia,2021-04-04T23:52:30.719996Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.3863,Angola,South Sudan,8,Africa,,2021-05-21T23:59:16.799997Z,2021-05-01,Southern Africa,,2021-05-16
+2021.85479,Angola,Democratic Republic of the Congo,8,Africa,,2021-11-08T23:57:37.440003Z,2021-11-01,Southern Africa,,2021-10-31
+2021.33973,Angola,Barbados,8,Africa,South America,2021-05-05T00:02:05.279997Z,2021-05-01,Southern Africa,Rest Central America,2021-05-02
+2021.86028,Angola,Morocco,8,Africa,Africa,2021-11-11T00:03:10.079996Z,2021-11-01,Southern Africa,Northern Africa,2021-10-31
+2021.47397,Angola,Finland,8,Africa,Europe,2021-06-22T23:58:37.920Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.32878,Angola,India,8,Africa,Asia,2021-05-01T00:06:46.080002Z,2021-05-01,Southern Africa,India+,2021-04-18
+2021.97809,Angola,Indonesia,8,Africa,Asia,2021-12-24T00:04:06.240002Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.27477,Angola,Portugal,8,Africa,Europe,2021-04-11T06:59:06.720Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50411,Angola,Barbados,8,Africa,South America,2021-07-04T00:00:12.960003Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.28856,Angola,Zimbabwe,8,Africa,Africa,2021-04-16T07:47:08.159999Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53565,Angola,USA,8,Africa,,2021-07-15T12:17:38.400001Z,2021-07-01,Southern Africa,,2021-07-11
+2021.55962,Angola,Myanmar,8,Africa,Asia,2021-07-24T06:16:16.320Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.5096,Angola,Zambia,8,Africa,Africa,2021-07-06T00:05:45.600003Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70136,Angola,Portugal,8,Africa,Europe,2021-09-13T23:54:48.960001Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69314,Angola,Japan,8,Africa,Asia,2021-09-10T23:54:23.040003Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68218,Angola,Portugal,8,Africa,Europe,2021-09-06T23:53:48.480Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32769,Angola,Namibia,8,Africa,Africa,2021-04-30T14:33:51.840002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67121,Angola,South Africa,8,Africa,Africa,2021-09-02T23:47:58.559999Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.6219,Angola,Namibia,8,Africa,Africa,2021-08-15T23:50:38.400003Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50683,Angola,Zambia,8,Africa,Africa,2021-07-04T23:49:50.880001Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.6493,Angola,South Africa,8,Africa,Africa,2021-08-25T23:52:04.800001Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47415,Angola,Namibia,8,Africa,Africa,2021-06-23T01:33:14.400Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53696,Angola,Namibia,8,Africa,Africa,2021-07-15T23:46:10.559997Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.79998,Angola,Portugal,8,Africa,Europe,2021-10-19T23:49:29.280Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52637,Angola,South Africa,8,Africa,Africa,2021-07-12T03:00:04.320001Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60819,Angola,South Africa,8,Africa,Africa,2021-08-10T23:44:39.839998Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.6986,Angola,South Africa,8,Africa,Africa,2021-09-12T23:44:09.599998Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.55336,Angola,Namibia,8,Africa,Africa,2021-07-21T23:26:00.959996Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.7534,Angola,South Africa,8,Africa,Africa,2021-10-02T23:47:02.400002Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52874,Angola,Namibia,8,Africa,Africa,2021-07-12T23:45:44.639999Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68764,Angola,South Africa,8,Africa,Africa,2021-09-08T23:43:35.039996Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36624,Angola,Namibia,8,Africa,Africa,2021-05-14T16:15:44.640002Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.85477,Angola,Democratic Republic of the Congo,8,Africa,,2021-11-08T23:47:06.719997Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64165,Angola,Portugal,8,Africa,Europe,2021-08-23T04:51:14.400001Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2020.96646,Angola,Portugal,9,Africa,Europe,2020-12-19T17:23:04.704003Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2021.18356,Angola,Senegal,9,Africa,Africa,2021-03-08T23:59:08.160005Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18356,Angola,South Africa,9,Africa,Africa,2021-03-08T23:59:08.160005Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.26296,Angola,Portugal,9,Africa,Europe,2021-04-06T23:31:46.560008Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09589,Angola,Benin,9,Africa,Africa,2021-02-04T23:59:47.040002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05496,Angola,Kenya,9,Africa,Africa,2021-01-21T01:26:58.560005Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95805,Angola,USA,9,Africa,,2020-12-16T15:30:40.320006Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00456,Angola,Nigeria,9,Africa,Africa,2021-01-02T15:56:44.160003Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.25925,Angola,Sao Tome and Principe,9,Africa,Africa,2021-04-05T15:01:48.000002Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.26301,Angola,Portugal,9,Africa,Europe,2021-04-06T23:58:03.360004Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35068,Angola,Portugal,9,Africa,Europe,2021-05-08T23:57:24.480007Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.6,Angola,Panama,9,Africa,South America,2021-08-08T00:00:00.000004Z,2021-08-01,Southern Africa,Rest Central America,2021-08-08
+2021.32329,Angola,Poland,9,Africa,Europe,2021-04-29T00:01:13.440001Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29862,Angola,Bulgaria,9,Africa,Europe,2021-04-19T23:54:40.320001Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.23561,Angola,Ireland,9,Africa,Europe,2021-03-27T23:56:36.960006Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16164,Angola,Greece,9,Africa,Europe,2021-02-28T23:57:59.040001Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.13384,Angola,USA,9,Africa,,2021-02-18T20:26:18.240006Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12602,Angola,Denmark,9,Africa,Europe,2021-02-15T23:56:06.720005Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14245,Angola,Bulgaria,9,Africa,Europe,2021-02-21T23:51:43.200002Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27121,Angola,Portugal,9,Africa,Europe,2021-04-09T23:47:58.560004Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20685,Angola,Portugal,9,Africa,Europe,2021-03-17T12:00:21.600001Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34521,Angola,Portugal,9,Africa,Europe,2021-05-07T00:02:22.560006Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.18414,Angola,Mauritius,9,Africa,Africa,2021-03-09T05:03:59.040002Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37533,Angola,Liberia,9,Africa,Africa,2021-05-17T23:53:26.880002Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.01041,Angola,Antigua and Barbuda,9,Africa,,2021-01-04T19:11:29.760003Z,2021-01-01,Southern Africa,,2020-12-27
+2021.15115,Angola,Guinea,9,Africa,Africa,2021-02-25T04:04:26.400005Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39176,Angola,Gambia,9,Africa,Africa,2021-05-23T23:49:03.360006Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38354,Angola,Benin,9,Africa,Africa,2021-05-20T23:48:37.440001Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34244,Angola,Bangladesh,9,Africa,Asia,2021-05-05T23:46:27.840004Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06847,Angola,Togo,9,Africa,Africa,2021-01-25T23:47:49.920005Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43559,Angola,Gabon,9,Africa,Africa,2021-06-08T23:46:06.240001Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53422,Angola,Sao Tome and Principe,9,Africa,Africa,2021-07-14T23:46:01.920007Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13422,Angola,Portugal,9,Africa,Europe,2021-02-18T23:46:01.920004Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09668,Angola,Nigeria,9,Africa,Africa,2021-02-05T06:55:00.480003Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27122,Angola,Philippines,9,Africa,Asia,2021-04-09T23:53:13.920003Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.19998,Angola,Portugal,9,Africa,Europe,2021-03-14T23:49:29.280003Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.09587,Angola,Niger,9,Africa,Africa,2021-02-04T23:49:16.320003Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08491,Angola,Benin,9,Africa,Africa,2021-01-31T23:48:41.760001Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.36162,Angola,Democratic Republic of the Congo,9,Africa,,2021-05-12T23:47:28.320004Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38354,Angola,Djibouti,9,Africa,Africa,2021-05-20T23:48:37.440001Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.37806,Angola,Israel,9,Africa,Europe,2021-05-18T23:48:20.160007Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.39998,Angola,South Sudan,9,Africa,,2021-05-26T23:49:29.280005Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41642,Angola,Senegal,9,Africa,Africa,2021-06-01T23:50:21.120008Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24656,Angola,Mali,9,Africa,Africa,2021-03-31T23:51:56.160002Z,2021-03-01,Southern Africa,Western Africa,2021-03-21
+2021.41525,Angola,Guinea,9,Africa,Africa,2021-06-01T13:35:24.000008Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09441,Angola,Mali,9,Africa,Africa,2021-02-04T11:01:53.760005Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.9077,Angola,Benin,9,Africa,Africa,2020-11-28T05:14:12.480006Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.26847,Angola,Australia,9,Africa,Australia,2021-04-08T23:47:49.920007Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30134,Angola,South Africa,9,Africa,Africa,2021-04-20T23:44:18.240007Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31503,Angola,South Africa,9,Africa,Africa,2021-04-25T23:39:46.080007Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24106,Angola,South Africa,9,Africa,Africa,2021-03-29T23:41:08.160002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26297,Angola,South Africa,9,Africa,Africa,2021-04-06T23:37:01.920007Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43558,Angola,Namibia,9,Africa,Africa,2021-06-08T23:40:50.880002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69122,Angola,Mozambique,9,Africa,Africa,2020-09-09T23:40:35.328005Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27394,Angola,South Africa,9,Africa,Africa,2021-04-10T23:42:51.840001Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16435,Angola,South Africa,9,Africa,Africa,2021-03-01T23:42:21.600008Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71582,Angola,South Africa,9,Africa,Africa,2020-09-18T23:45:46.368004Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82238,Angola,South Africa,9,Africa,Africa,2020-10-27T23:47:09.312002Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85242,Angola,South Africa,9,Africa,Africa,2020-11-07T23:39:26.208005Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90161,Angola,South Africa,9,Africa,Africa,2020-11-25T23:44:32.064004Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84968,Angola,South Africa,9,Africa,Africa,2020-11-06T23:35:20.832001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.9617,Angola,South Africa,9,Africa,Africa,2020-12-17T23:34:22.080002Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14241,Angola,South Africa,9,Africa,Africa,2021-02-21T23:30:41.760005Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.15063,Angola,Zimbabwe,9,Africa,Africa,2021-02-24T23:31:07.680003Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69412,Angola,South Africa,9,Africa,Africa,2020-09-11T01:09:00.288003Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19174,Angola,South Africa,9,Africa,Africa,2021-03-11T23:38:32.640007Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22461,Angola,South Africa,9,Africa,Africa,2021-03-23T23:35:00.960007Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12599,Angola,Namibia,9,Africa,Africa,2021-02-15T23:40:20.640007Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30408,Angola,Canada,9,Africa,North America,2021-04-21T23:44:26.880003Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17255,Angola,South Africa,9,Africa,Africa,2021-03-04T23:32:16.800007Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95625,Angola,Namibia,9,Africa,Africa,2020-12-15T23:42:00.000006Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.4356,Angola,Namibia,9,Africa,Africa,2021-06-08T23:51:21.600008Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43286,Angola,Namibia,9,Africa,Africa,2021-06-07T23:51:12.960004Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47943,Angola,Portugal,9,Africa,Europe,2021-06-24T23:48:24.480003Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34243,Angola,Portugal,9,Africa,Europe,2021-05-05T23:41:12.480005Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.16435,Angola,South Africa,9,Africa,Africa,2021-03-01T23:42:21.600008Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36328,Angola,Burundi,9,Africa,Africa,2021-05-13T14:19:58.080001Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16161,Angola,Somalia,9,Africa,Africa,2021-02-28T23:42:12.960003Z,2021-02-01,Southern Africa,Eastern Africa,2021-02-21
+2021.03085,Angola,Namibia,9,Africa,Africa,2021-01-12T06:14:45.600003Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01916,Angola,Zimbabwe,9,Africa,Africa,2021-01-07T23:50:29.760002Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40545,Angola,South Africa,9,Africa,Africa,2021-05-28T23:44:31.200006Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.5123,Angola,Rwanda,9,Africa,Africa,2021-07-06T23:44:52.800003Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.28216,Angola,Oman,9,Africa,Asia,2021-04-13T23:43:17.760006Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.37806,Angola,Botswana,9,Africa,Africa,2021-05-18T23:48:20.160007Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.22737,Angola,South Africa,9,Africa,Africa,2021-03-24T23:45:40.320002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95816,Angola,Portugal,9,Africa,Europe,2020-12-16T16:28:38.784004Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93811,Angola,Portugal,9,Africa,Europe,2020-12-09T08:21:29.664002Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18901,Angola,France,9,Africa,Europe,2021-03-10T23:43:39.360002Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.0164,Angola,Zambia,9,Africa,Africa,2021-01-06T23:39:50.400006Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.6803,Angola,United Kingdom,9,Africa,Europe,2020-09-05T23:45:18.720007Z,2020-09-01,Southern Africa,Western Europe,2020-08-23
+2020.58321,Angola,Namibia,9,Africa,Africa,2020-08-01T10:54:59.904007Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.49227,Angola,Namibia,9,Africa,Africa,2020-06-29T04:05:58.848006Z,2020-06-01,Southern Africa,Southern Africa,2020-06-28
+2020.75953,Angola,Japan,9,Africa,Asia,2020-10-04T23:42:41.472001Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.94076,Angola,Portugal,9,Africa,Europe,2020-12-10T07:38:09.024006Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.77935,Angola,Switzerland,9,Africa,Europe,2020-10-12T05:48:37.440008Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92981,Angola,Portugal,9,Africa,Europe,2020-12-06T07:27:03.744003Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84342,Angola,Portugal,9,Africa,Europe,2020-11-04T16:36:04.608005Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74893,Angola,Belgium,9,Africa,Europe,2020-10-01T02:36:04.032006Z,2020-10-01,Southern Africa,Western Europe,2020-09-20
+2020.95135,Angola,Portugal,9,Africa,Europe,2020-12-14T04:39:30.240001Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76306,Angola,France,9,Africa,Europe,2020-10-06T06:43:08.544007Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06298,Angola,United Kingdom,9,Africa,Europe,2021-01-23T23:42:17.280005Z,2021-01-01,Southern Africa,Western Europe,2021-01-10
+2020.78958,Angola,France,9,Africa,Europe,2020-10-15T23:40:14.592004Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77046,Angola,Canada,9,Africa,North America,2020-10-08T23:43:14.304006Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13422,Angola,France,9,Africa,Europe,2021-02-18T23:46:01.920004Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80326,Angola,United Kingdom,9,Africa,Europe,2020-10-20T23:50:09.024004Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40819,Angola,Democratic Republic of the Congo,9,Africa,,2021-05-29T23:44:39.840003Z,2021-05-01,Southern Africa,,2021-05-16
+2021.04106,Angola,Namibia,9,Africa,Africa,2021-01-15T23:41:08.160008Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96998,Angola,Namibia,9,Africa,Africa,2020-12-21T00:18:15.552002Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.8497,Angola,Jordan,9,Africa,Asia,2020-11-06T23:45:53.280007Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95898,Angola,Republic of the Congo,9,Africa,,2020-12-16T23:40:49.152004Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85334,Angola,Canada,9,Africa,North America,2020-11-08T07:44:18.816004Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78375,Angola,Portugal,9,Africa,Europe,2020-10-13T20:27:36.000002Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.69258,Angola,Serbia,9,Africa,Europe,2020-09-10T11:37:21.792004Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.06332,Angola,Democratic Republic of the Congo,9,Africa,,2021-01-24T02:40:59.520006Z,2021-01-01,Southern Africa,,2021-01-24
+2020.75567,Angola,Republic of the Congo,9,Africa,,2020-10-03T13:48:19.008008Z,2020-10-01,Southern Africa,,2020-09-20
+2021.1205,Angola,Gabon,9,Africa,Africa,2021-02-13T23:34:48.000007Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.20543,Angola,Tunisia,9,Africa,Africa,2021-03-16T23:34:00.480006Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.38239,Angola,Myanmar,9,Africa,Asia,2021-05-20T13:44:11.040007Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25752,Angola,New Zealand,9,Africa,Australia,2021-04-04T23:52:30.720004Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.38631,Angola,South Sudan,9,Africa,,2021-05-22T00:04:32.160003Z,2021-05-01,Southern Africa,,2021-05-16
+2021.8548,Angola,Democratic Republic of the Congo,9,Africa,,2021-11-09T00:02:52.800002Z,2021-11-01,Southern Africa,,2021-10-31
+2021.32877,Angola,India,9,Africa,Asia,2021-05-01T00:01:30.720002Z,2021-05-01,Southern Africa,India+,2021-04-18
+2021.97808,Angola,Indonesia,9,Africa,Asia,2021-12-23T23:58:50.880003Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.50411,Angola,Barbados,9,Africa,South America,2021-07-04T00:00:12.960003Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.2921,Angola,Zimbabwe,9,Africa,Africa,2021-04-17T14:47:45.600004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53722,Angola,USA,9,Africa,,2021-07-16T02:02:49.920005Z,2021-07-01,Southern Africa,,2021-07-11
+2021.5615,Angola,Myanmar,9,Africa,Asia,2021-07-24T22:44:24.000008Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50959,Angola,Zambia,9,Africa,Africa,2021-07-06T00:00:30.240004Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70138,Angola,Portugal,9,Africa,Europe,2021-09-14T00:05:19.680006Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69316,Angola,Japan,9,Africa,Asia,2021-09-11T00:04:53.760001Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.6822,Angola,Portugal,9,Africa,Europe,2021-09-07T00:04:19.200006Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32781,Angola,Namibia,9,Africa,Africa,2021-04-30T15:36:56.160007Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67124,Angola,South Africa,9,Africa,Africa,2021-09-03T00:03:44.640004Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.62192,Angola,Namibia,9,Africa,Africa,2021-08-16T00:01:09.120001Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50685,Angola,Zambia,9,Africa,Africa,2021-07-05T00:00:21.600007Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.64932,Angola,South Africa,9,Africa,Africa,2021-08-26T00:02:35.520007Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47588,Angola,Namibia,9,Africa,Africa,2021-06-23T16:42:31.680006Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.53699,Angola,Namibia,9,Africa,Africa,2021-07-16T00:01:56.640002Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.8,Angola,Portugal,9,Africa,Europe,2021-10-20T00:00:00.000006Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.5272,Angola,South Africa,9,Africa,Africa,2021-07-12T10:16:19.200007Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60822,Angola,South Africa,9,Africa,Africa,2021-08-11T00:00:25.920002Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.69864,Angola,South Africa,9,Africa,Africa,2021-09-13T00:05:11.040002Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.5556,Angola,Namibia,9,Africa,Africa,2021-07-22T19:03:21.600004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75342,Angola,South Africa,9,Africa,Africa,2021-10-02T23:57:33.120007Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52877,Angola,Namibia,9,Africa,Africa,2021-07-13T00:01:30.720004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68767,Angola,South Africa,9,Africa,Africa,2021-09-08T23:59:21.120008Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.37012,Angola,Namibia,9,Africa,Africa,2021-05-16T02:15:04.320001Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.8548,Angola,Democratic Republic of the Congo,9,Africa,,2021-11-09T00:02:52.800002Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64196,Angola,Portugal,9,Africa,Europe,2021-08-23T07:34:10.560005Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2021.18356,Angola,Senegal,10,Africa,Africa,2021-03-08T23:59:08.160005Z,2021-03-01,Southern Africa,Western Africa,2021-03-07
+2021.18356,Angola,South Africa,10,Africa,Africa,2021-03-08T23:59:08.160005Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.263,Angola,Portugal,10,Africa,Europe,2021-04-06T23:52:48.000005Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.09589,Angola,Benin,10,Africa,Africa,2021-02-04T23:59:47.040002Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.05237,Angola,Kenya,10,Africa,Africa,2021-01-20T02:45:40.320004Z,2021-01-01,Southern Africa,Eastern Africa,2021-01-10
+2020.95315,Angola,USA,10,Africa,,2020-12-14T20:28:10.560002Z,2020-12-01,Southern Africa,,2020-12-13
+2021.00198,Angola,Nigeria,10,Africa,Africa,2021-01-01T17:20:41.280Z,2021-01-01,Southern Africa,Western Africa,2020-12-27
+2021.2584,Angola,Sao Tome and Principe,10,Africa,Africa,2021-04-05T07:35:02.400005Z,2021-04-01,Southern Africa,Western Africa,2021-04-04
+2021.263,Angola,Portugal,10,Africa,Europe,2021-04-06T23:52:48.000005Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.35068,Angola,Portugal,10,Africa,Europe,2021-05-08T23:57:24.480Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.59999,Angola,Panama,10,Africa,South America,2021-08-07T23:54:44.640005Z,2021-08-01,Southern Africa,Rest Central America,2021-07-25
+2021.32328,Angola,Poland,10,Africa,Europe,2021-04-28T23:55:58.080002Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.29862,Angola,Bulgaria,10,Africa,Europe,2021-04-19T23:54:40.320001Z,2021-04-01,Southern Africa,Central Europe,2021-04-18
+2021.2356,Angola,Ireland,10,Africa,Europe,2021-03-27T23:51:21.599999Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.16164,Angola,Greece,10,Africa,Europe,2021-02-28T23:57:59.040001Z,2021-02-01,Southern Africa,Western Europe,2021-02-21
+2021.12988,Angola,USA,10,Africa,,2021-02-17T09:44:55.680006Z,2021-02-01,Southern Africa,,2021-02-07
+2021.12601,Angola,Denmark,10,Africa,Europe,2021-02-15T23:50:51.360006Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.14244,Angola,Bulgaria,10,Africa,Europe,2021-02-21T23:46:27.840003Z,2021-02-01,Southern Africa,Central Europe,2021-02-21
+2021.27121,Angola,Portugal,10,Africa,Europe,2021-04-09T23:47:58.560004Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.20576,Angola,Portugal,10,Africa,Europe,2021-03-17T02:27:27.360002Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.34519,Angola,Portugal,10,Africa,Europe,2021-05-06T23:51:51.840Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.12633,Angola,Portugal,10,Africa,Europe,2021-02-16T02:39:02.880002Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.18327,Angola,Mauritius,10,Africa,Africa,2021-03-08T21:26:42.720Z,2021-03-01,Southern Africa,Eastern Africa,2021-03-07
+2021.37533,Angola,Liberia,10,Africa,Africa,2021-05-17T23:53:26.880002Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.00637,Angola,Antigua and Barbuda,10,Africa,,2021-01-03T07:48:04.320002Z,2021-01-01,Southern Africa,,2020-12-27
+2021.1499,Angola,Guinea,10,Africa,Africa,2021-02-24T17:07:26.400004Z,2021-02-01,Southern Africa,Western Africa,2021-02-21
+2021.39177,Angola,Gambia,10,Africa,Africa,2021-05-23T23:54:18.720006Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.38355,Angola,Benin,10,Africa,Africa,2021-05-20T23:53:52.800Z,2021-05-01,Southern Africa,Western Africa,2021-05-16
+2021.34245,Angola,Bangladesh,10,Africa,Asia,2021-05-05T23:51:43.200003Z,2021-05-01,Southern Africa,India+,2021-05-02
+2021.06848,Angola,Togo,10,Africa,Africa,2021-01-25T23:53:05.280004Z,2021-01-01,Southern Africa,Western Africa,2021-01-24
+2021.43561,Angola,Gabon,10,Africa,Africa,2021-06-08T23:56:36.960Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.53424,Angola,Sao Tome and Principe,10,Africa,Africa,2021-07-14T23:56:32.640006Z,2021-07-01,Southern Africa,Western Africa,2021-07-11
+2021.13424,Angola,Portugal,10,Africa,Europe,2021-02-18T23:56:32.640003Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2021.09144,Angola,Nigeria,10,Africa,Africa,2021-02-03T09:00:51.840005Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.27121,Angola,Philippines,10,Africa,Asia,2021-04-09T23:47:58.560004Z,2021-04-01,Southern Africa,Southeastern Asia,2021-04-04
+2021.44108,Angola,South Africa,10,Africa,Africa,2021-06-10T23:51:38.880002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.20001,Angola,Portugal,10,Africa,Europe,2021-03-15T00:05:15.360001Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.0959,Angola,Niger,10,Africa,Africa,2021-02-05T00:05:02.400001Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.08494,Angola,Benin,10,Africa,Africa,2021-02-01T00:04:27.840006Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2021.36165,Angola,Democratic Republic of the Congo,10,Africa,,2021-05-13T00:03:14.400002Z,2021-05-01,Southern Africa,,2021-05-02
+2021.38357,Angola,Djibouti,10,Africa,Africa,2021-05-21T00:04:23.520006Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-16
+2021.3781,Angola,Israel,10,Africa,Europe,2021-05-19T00:09:21.600004Z,2021-05-01,Southern Africa,Middle East,2021-05-16
+2021.40001,Angola,South Sudan,10,Africa,,2021-05-27T00:05:15.360002Z,2021-05-01,Southern Africa,,2021-05-16
+2021.41645,Angola,Senegal,10,Africa,Africa,2021-06-02T00:06:07.200005Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.24658,Angola,Mali,10,Africa,Africa,2021-04-01T00:02:26.880Z,2021-04-01,Southern Africa,Western Africa,2021-03-21
+2021.41494,Angola,Guinea,10,Africa,Africa,2021-06-01T10:52:27.840004Z,2021-06-01,Southern Africa,Western Africa,2021-05-30
+2021.09245,Angola,Mali,10,Africa,Africa,2021-02-03T17:51:43.200003Z,2021-02-01,Southern Africa,Western Africa,2021-01-24
+2020.90239,Angola,Benin,10,Africa,Africa,2020-11-26T06:35:37.536006Z,2020-11-01,Southern Africa,Western Africa,2020-11-15
+2021.26851,Angola,Australia,10,Africa,Australia,2021-04-09T00:08:51.360003Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.30138,Angola,South Africa,10,Africa,Africa,2021-04-21T00:05:19.680003Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.31508,Angola,South Africa,10,Africa,Africa,2021-04-26T00:06:02.880002Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.24111,Angola,South Africa,10,Africa,Africa,2021-03-30T00:07:24.960005Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.26301,Angola,South Africa,10,Africa,Africa,2021-04-06T23:58:03.360004Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.43562,Angola,Namibia,10,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2020.69127,Angola,Mozambique,10,Africa,Africa,2020-09-10T00:06:56.448001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.27397,Angola,South Africa,10,Africa,Africa,2021-04-10T23:58:37.920006Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.16438,Angola,South Africa,10,Africa,Africa,2021-03-01T23:58:07.680005Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.71585,Angola,South Africa,10,Africa,Africa,2020-09-19T00:01:35.040001Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2020.82241,Angola,South Africa,10,Africa,Africa,2020-10-28T00:02:57.984Z,2020-10-01,Southern Africa,Southern Africa,2020-10-18
+2020.85246,Angola,South Africa,10,Africa,Africa,2020-11-08T00:00:31.104002Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.90165,Angola,South Africa,10,Africa,Africa,2020-11-26T00:05:36.960001Z,2020-11-01,Southern Africa,Southern Africa,2020-11-15
+2020.84974,Angola,South Africa,10,Africa,Africa,2020-11-07T00:06:58.176003Z,2020-11-01,Southern Africa,Southern Africa,2020-11-01
+2020.96177,Angola,South Africa,10,Africa,Africa,2020-12-18T00:11:15.648004Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.14248,Angola,South Africa,10,Africa,Africa,2021-02-22T00:07:29.279999Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2021.1507,Angola,Zimbabwe,10,Africa,Africa,2021-02-25T00:07:55.200005Z,2021-02-01,Southern Africa,Southern Africa,2021-02-21
+2020.69403,Angola,South Africa,10,Africa,Africa,2020-09-11T00:21:34.272003Z,2020-09-01,Southern Africa,Southern Africa,2020-09-06
+2021.19179,Angola,South Africa,10,Africa,Africa,2021-03-12T00:04:49.440003Z,2021-03-01,Southern Africa,Southern Africa,2021-03-07
+2021.22467,Angola,South Africa,10,Africa,Africa,2021-03-24T00:06:33.120002Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2021.12603,Angola,Namibia,10,Africa,Africa,2021-02-16T00:01:22.080004Z,2021-02-01,Southern Africa,Southern Africa,2021-02-07
+2021.30412,Angola,Canada,10,Africa,North America,2021-04-22T00:05:28.320Z,2021-04-01,Southern Africa,Canada,2021-04-18
+2021.17261,Angola,South Africa,10,Africa,Africa,2021-03-05T00:03:48.960002Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2020.95629,Angola,Namibia,10,Africa,Africa,2020-12-16T00:03:04.896003Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2021.43562,Angola,Namibia,10,Africa,Africa,2021-06-09T00:01:52.320006Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.43288,Angola,Namibia,10,Africa,Africa,2021-06-08T00:01:43.680002Z,2021-06-01,Southern Africa,Southern Africa,2021-05-30
+2021.47946,Angola,Portugal,10,Africa,Europe,2021-06-25T00:04:10.560001Z,2021-06-01,Southern Africa,Western Europe,2021-06-13
+2021.34247,Angola,Portugal,10,Africa,Europe,2021-05-06T00:02:13.920002Z,2021-05-01,Southern Africa,Western Europe,2021-05-02
+2021.1644,Angola,South Africa,10,Africa,Africa,2021-03-02T00:08:38.400004Z,2021-03-01,Southern Africa,Southern Africa,2021-02-21
+2021.36283,Angola,Burundi,10,Africa,Africa,2021-05-13T10:23:26.880001Z,2021-05-01,Southern Africa,Eastern Africa,2021-05-02
+2021.16165,Angola,Somalia,10,Africa,Africa,2021-03-01T00:03:14.400Z,2021-03-01,Southern Africa,Eastern Africa,2021-02-21
+2021.02933,Angola,Namibia,10,Africa,Africa,2021-01-11T16:55:50.880002Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2021.01918,Angola,Zimbabwe,10,Africa,Africa,2021-01-08T00:01:00.480Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2021.40548,Angola,South Africa,10,Africa,Africa,2021-05-29T00:00:17.280004Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.51234,Angola,Rwanda,10,Africa,Africa,2021-07-07T00:05:54.240Z,2021-07-01,Southern Africa,Eastern Africa,2021-06-27
+2021.2822,Angola,Oman,10,Africa,Asia,2021-04-14T00:04:19.200003Z,2021-04-01,Southern Africa,Middle East,2021-04-04
+2021.37808,Angola,Botswana,10,Africa,Africa,2021-05-18T23:58:50.880006Z,2021-05-01,Southern Africa,Southern Africa,2021-05-16
+2021.22742,Angola,South Africa,10,Africa,Africa,2021-03-25T00:11:57.120005Z,2021-03-01,Southern Africa,Southern Africa,2021-03-21
+2020.95558,Angola,Portugal,10,Africa,Europe,2020-12-15T17:48:52.992002Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.93715,Angola,Portugal,10,Africa,Europe,2020-12-08T23:55:32.159999Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2021.18904,Angola,France,10,Africa,Europe,2021-03-10T23:59:25.439999Z,2021-03-01,Southern Africa,Western Europe,2021-03-07
+2021.01645,Angola,Zambia,10,Africa,Africa,2021-01-07T00:06:07.200002Z,2021-01-01,Southern Africa,Southern Africa,2020-12-27
+2020.68035,Angola,United Kingdom,10,Africa,Europe,2020-09-06T00:11:39.840003Z,2020-09-01,Southern Africa,Western Europe,2020-09-06
+2020.58261,Angola,Namibia,10,Africa,Africa,2020-08-01T05:38:46.464005Z,2020-08-01,Southern Africa,Southern Africa,2020-07-26
+2020.48904,Angola,Namibia,10,Africa,Africa,2020-06-27T23:43:38.496005Z,2020-06-01,Southern Africa,Southern Africa,2020-06-14
+2020.75959,Angola,Japan,10,Africa,Asia,2020-10-05T00:14:18.816004Z,2020-10-01,Southern Africa,Japan,2020-10-04
+2020.9402,Angola,Portugal,10,Africa,Europe,2020-12-10T02:43:00.480Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.7757,Angola,Switzerland,10,Africa,Europe,2020-10-10T21:44:55.680005Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.92899,Angola,Portugal,10,Africa,Europe,2020-12-06T00:14:53.376004Z,2020-12-01,Southern Africa,Western Europe,2020-11-29
+2020.84256,Angola,Portugal,10,Africa,Europe,2020-11-04T09:02:49.344002Z,2020-11-01,Southern Africa,Western Europe,2020-11-01
+2020.74805,Angola,Belgium,10,Africa,Europe,2020-09-30T18:52:16.320005Z,2020-09-01,Southern Africa,Western Europe,2020-09-20
+2020.95012,Angola,Portugal,10,Africa,Europe,2020-12-13T17:51:14.688006Z,2020-12-01,Southern Africa,Western Europe,2020-12-13
+2020.76301,Angola,France,10,Africa,Europe,2020-10-06T06:16:47.424004Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2021.06303,Angola,United Kingdom,10,Africa,Europe,2021-01-24T00:08:34.080001Z,2021-01-01,Southern Africa,Western Europe,2021-01-24
+2020.78964,Angola,France,10,Africa,Europe,2020-10-16T00:11:51.936006Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.77051,Angola,Canada,10,Africa,North America,2020-10-09T00:09:35.424002Z,2020-10-01,Southern Africa,Canada,2020-10-04
+2021.13427,Angola,France,10,Africa,Europe,2021-02-19T00:12:18.720001Z,2021-02-01,Southern Africa,Western Europe,2021-02-07
+2020.80331,Angola,United Kingdom,10,Africa,Europe,2020-10-21T00:16:30.144Z,2020-10-01,Southern Africa,Western Europe,2020-10-18
+2021.40824,Angola,Democratic Republic of the Congo,10,Africa,,2021-05-30T00:10:56.639999Z,2021-05-01,Southern Africa,,2021-05-30
+2021.04112,Angola,Namibia,10,Africa,Africa,2021-01-16T00:12:40.320003Z,2021-01-01,Southern Africa,Southern Africa,2021-01-10
+2020.96838,Angola,Namibia,10,Africa,Africa,2020-12-20T10:14:59.712001Z,2020-12-01,Southern Africa,Southern Africa,2020-12-13
+2020.84975,Angola,Jordan,10,Africa,Asia,2020-11-07T00:12:14.400003Z,2020-11-01,Southern Africa,Middle East,2020-11-01
+2020.95904,Angola,Republic of the Congo,10,Africa,,2020-12-17T00:12:26.496006Z,2020-12-01,Southern Africa,,2020-12-13
+2020.85047,Angola,Canada,10,Africa,North America,2020-11-07T06:31:42.528003Z,2020-11-01,Southern Africa,Canada,2020-11-01
+2020.78094,Angola,Portugal,10,Africa,Europe,2020-10-12T19:46:37.056003Z,2020-10-01,Southern Africa,Western Europe,2020-10-04
+2020.68938,Angola,Serbia,10,Africa,Europe,2020-09-09T07:30:50.112001Z,2020-09-01,Southern Africa,Central Europe,2020-09-06
+2021.05919,Angola,Democratic Republic of the Congo,10,Africa,,2021-01-22T14:30:15.840005Z,2021-01-01,Southern Africa,,2021-01-10
+2020.7493,Angola,Republic of the Congo,10,Africa,,2020-10-01T05:51:04.320006Z,2020-10-01,Southern Africa,,2020-09-20
+2021.12057,Angola,Gabon,10,Africa,Africa,2021-02-14T00:11:35.520001Z,2021-02-01,Southern Africa,Western Africa,2021-02-07
+2021.2055,Angola,Tunisia,10,Africa,Africa,2021-03-17T00:10:48.000001Z,2021-03-01,Southern Africa,Northern Africa,2021-03-07
+2021.38194,Angola,Myanmar,10,Africa,Asia,2021-05-20T09:47:39.840Z,2021-05-01,Southern Africa,Southeastern Asia,2021-05-16
+2021.25754,Angola,New Zealand,10,Africa,Australia,2021-04-05T00:03:01.440002Z,2021-04-01,Southern Africa,Oceania,2021-04-04
+2021.3863,Angola,South Sudan,10,Africa,,2021-05-21T23:59:16.800004Z,2021-05-01,Southern Africa,,2021-05-16
+2021.8548,Angola,Democratic Republic of the Congo,10,Africa,,2021-11-09T00:02:52.800002Z,2021-11-01,Southern Africa,,2021-10-31
+2021.21897,Angola,Portugal,10,Africa,Europe,2021-03-21T22:10:37.920004Z,2021-03-01,Southern Africa,Western Europe,2021-03-21
+2021.32878,Angola,India,10,Africa,Asia,2021-05-01T00:06:46.080002Z,2021-05-01,Southern Africa,India+,2021-04-18
+2021.97809,Angola,Indonesia,10,Africa,Asia,2021-12-24T00:04:06.240002Z,2021-12-01,Southern Africa,Indonesia+,2021-12-12
+2021.27482,Angola,Portugal,10,Africa,Europe,2021-04-11T07:25:23.520003Z,2021-04-01,Southern Africa,Western Europe,2021-04-04
+2021.50412,Angola,Barbados,10,Africa,South America,2021-07-04T00:05:28.320002Z,2021-07-01,Southern Africa,Rest Central America,2021-06-27
+2021.28856,Angola,Zimbabwe,10,Africa,Africa,2021-04-16T07:47:08.160006Z,2021-04-01,Southern Africa,Southern Africa,2021-04-04
+2021.53566,Angola,USA,10,Africa,,2021-07-15T12:22:53.760Z,2021-07-01,Southern Africa,,2021-07-11
+2021.55962,Angola,Myanmar,10,Africa,Asia,2021-07-24T06:16:16.320Z,2021-07-01,Southern Africa,Southeastern Asia,2021-07-11
+2021.50961,Angola,Zambia,10,Africa,Africa,2021-07-06T00:11:00.960002Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.70139,Angola,Portugal,10,Africa,Europe,2021-09-14T00:10:35.040005Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.69317,Angola,Japan,10,Africa,Asia,2021-09-11T00:10:09.120Z,2021-09-01,Southern Africa,Japan,2021-09-05
+2021.68216,Angola,Portugal,10,Africa,Europe,2021-09-06T23:43:17.760002Z,2021-09-01,Southern Africa,Western Europe,2021-09-05
+2021.32754,Angola,Namibia,10,Africa,Africa,2021-04-30T13:15:01.440Z,2021-04-01,Southern Africa,Southern Africa,2021-04-18
+2021.67125,Angola,South Africa,10,Africa,Africa,2021-09-03T00:09:00.000003Z,2021-09-01,Southern Africa,Southern Africa,2021-08-22
+2021.62193,Angola,Namibia,10,Africa,Africa,2021-08-16T00:06:24.480001Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.50686,Angola,Zambia,10,Africa,Africa,2021-07-05T00:05:36.960006Z,2021-07-01,Southern Africa,Southern Africa,2021-06-27
+2021.64933,Angola,South Africa,10,Africa,Africa,2021-08-26T00:07:50.880006Z,2021-08-01,Southern Africa,Southern Africa,2021-08-22
+2021.47417,Angola,Namibia,10,Africa,Africa,2021-06-23T01:43:45.120006Z,2021-06-01,Southern Africa,Southern Africa,2021-06-13
+2021.537,Angola,Namibia,10,Africa,Africa,2021-07-16T00:07:12.000001Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.80002,Angola,Portugal,10,Africa,Europe,2021-10-20T00:10:30.720004Z,2021-10-01,Southern Africa,Western Europe,2021-10-17
+2021.52641,Angola,South Africa,10,Africa,Africa,2021-07-12T03:21:05.760005Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.60823,Angola,South Africa,10,Africa,Africa,2021-08-11T00:05:41.280002Z,2021-08-01,Southern Africa,Southern Africa,2021-08-08
+2021.69864,Angola,South Africa,10,Africa,Africa,2021-09-13T00:05:11.040002Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.5534,Angola,Namibia,10,Africa,Africa,2021-07-21T23:47:02.400Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.75342,Angola,South Africa,10,Africa,Africa,2021-10-02T23:57:33.120Z,2021-10-01,Southern Africa,Southern Africa,2021-09-19
+2021.52877,Angola,Namibia,10,Africa,Africa,2021-07-13T00:01:30.720004Z,2021-07-01,Southern Africa,Southern Africa,2021-07-11
+2021.68767,Angola,South Africa,10,Africa,Africa,2021-09-08T23:59:21.120001Z,2021-09-01,Southern Africa,Southern Africa,2021-09-05
+2021.36626,Angola,Namibia,10,Africa,Africa,2021-05-14T16:26:15.360Z,2021-05-01,Southern Africa,Southern Africa,2021-05-02
+2021.85479,Angola,Democratic Republic of the Congo,10,Africa,,2021-11-08T23:57:37.440003Z,2021-11-01,Southern Africa,,2021-10-31
+2021.64168,Angola,Portugal,10,Africa,Europe,2021-08-23T05:07:00.480006Z,2021-08-01,Southern Africa,Western Europe,2021-08-22
+2022.04608,Angola,Portugal,11,Africa,Europe,2022-01-17T19:39:38.879995Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05158,Angola,Suriname,11,Africa,South America,2022-01-19T19:50:26.879995Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08446,Angola,South Africa,11,Africa,Africa,2022-01-31T19:52:10.559994Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04609,Angola,Portugal,12,Africa,Europe,2022-01-17T19:44:54.240001Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05158,Angola,Suriname,12,Africa,South America,2022-01-19T19:50:26.880002Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08446,Angola,South Africa,12,Africa,Africa,2022-01-31T19:52:10.560001Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04608,Angola,Portugal,13,Africa,Europe,2022-01-17T19:39:38.879995Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05158,Angola,Suriname,13,Africa,South America,2022-01-19T19:50:26.880002Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08446,Angola,South Africa,13,Africa,Africa,2022-01-31T19:52:10.560001Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04608,Angola,Portugal,14,Africa,Europe,2022-01-17T19:39:38.880002Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05158,Angola,Suriname,14,Africa,South America,2022-01-19T19:50:26.880002Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08446,Angola,South Africa,14,Africa,Africa,2022-01-31T19:52:10.560001Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04609,Angola,Portugal,15,Africa,Europe,2022-01-17T19:44:54.240001Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.08446,Angola,South Africa,15,Africa,Africa,2022-01-31T19:52:10.560001Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.05158,Angola,Suriname,15,Africa,South America,2022-01-19T19:50:26.880002Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.04614,Angola,Portugal,16,Africa,Europe,2022-01-17T20:11:11.039998Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05158,Angola,Suriname,16,Africa,South America,2022-01-19T19:50:26.880002Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08448,Angola,South Africa,16,Africa,Africa,2022-01-31T20:02:41.279999Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04611,Angola,Portugal,17,Africa,Europe,2022-01-17T19:55:24.960Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05157,Angola,Suriname,17,Africa,South America,2022-01-19T19:45:11.520003Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08446,Angola,South Africa,17,Africa,Africa,2022-01-31T19:52:10.560001Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04613,Angola,Portugal,18,Africa,Europe,2022-01-17T20:05:55.679998Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05165,Angola,Suriname,18,Africa,South America,2022-01-19T20:27:14.399996Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08451,Angola,South Africa,18,Africa,Africa,2022-01-31T20:18:27.359997Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04614,Angola,Portugal,19,Africa,Europe,2022-01-17T20:11:11.040005Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05166,Angola,Suriname,19,Africa,South America,2022-01-19T20:32:29.760003Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08453,Angola,South Africa,19,Africa,Africa,2022-01-31T20:28:58.080003Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
+2022.04613,Angola,Portugal,20,Africa,Europe,2022-01-17T20:05:55.679998Z,2022-01-01,Southern Africa,Western Europe,2022-01-09
+2022.05161,Angola,Suriname,20,Africa,South America,2022-01-19T20:06:12.960Z,2022-01-01,Southern Africa,Rest South America,2022-01-09
+2022.08448,Angola,South Africa,20,Africa,Africa,2022-01-31T20:02:41.279999Z,2022-01-01,Southern Africa,Southern Africa,2022-01-23
